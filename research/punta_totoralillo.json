@@ -1,0 +1,79 @@
+{
+  "empresa": "Planta Desaladora Punta Totoralillo — ACCIONA (CAP/CMP)",
+  "slug": "punta_totoralillo",
+  "rubro": "Planta desalinizadora industrial/minera — Región de Atacama",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora (IDAM) de agua de mar por ósmosis inversa. Mandante/cliente final: CAP — Compañía Minera del Pacífico (CMP), para abastecer la operación minera Cerro Negro Norte y usos asociados. EPC + O&M (contrato de 20 años): ACCIONA Agua (diseño, construcción y operación). Ubicación: Puerto Punta Totoralillo, Región de Atacama (~25 km al norte de Caldera, ~2,5 km al sur del puerto). Capacidad: 54.000 m³/día. Estado: operando desde fines de 2013. Tecnología: ósmosis inversa con pretratamiento específico (protección de membranas frente a mareas rojas/medusas) y remineralización. Contratistas asociados en obras complementarias: Cleanairtech Sudamérica (EPC acueductos, concentraducto, línea de transmisión) y Abengoa Chile (ingeniería/suministro/construcción de tramos de acueducto y transmisión eléctrica).",
+    "fundada": "2013 (puesta en marcha)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "CAP / Compañía Minera del Pacífico (CMP) — mandante · ACCIONA Agua (EPC+O&M)",
+    "rut": "",
+    "sede": "Puerto Punta Totoralillo, Región de Atacama, Chile",
+    "fuentes": [
+      "https://www.acciona.com/es/proyectos/idam-copiapo",
+      "https://mediacdn.acciona.com/media/1002833/report_50.pdf",
+      "https://www.cap.cl/cap/site/artic/20160510/asocfile/20160510113850/cap_ifrs_consolidado_2015_09_30_esp.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar",
+      "Ósmosis inversa con pretratamiento (anti-marea roja/medusas)",
+      "Remineralización del agua producto",
+      "Impulsión/distribución para minería, agricultura y consumo humano de Caldera"
+    ],
+    "rol_cadena": "Proceso continuo (operación industrial 24/7)",
+    "fuentes": [
+      "https://www.acciona.com/es/proyectos/idam-copiapo",
+      "https://www.acciona.cl/actualidad/noticias/acciona-cumple-tres-anos-sin-accidentes-laborales-en-la-operacion-de-la-desaladora-de-copiapo"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta Desaladora Punta Totoralillo (IDAM Copiapó) — EPC + O&M 20 años",
+      "cliente": "CAP / Compañía Minera del Pacífico (CMP)",
+      "ubicacion": "Puerto Punta Totoralillo, Región de Atacama",
+      "monto": "",
+      "fuente": "https://www.acciona.com/es/proyectos/idam-copiapo"
+    },
+    {
+      "proyecto": "Obras complementarias — acueductos, concentraducto y línea de transmisión",
+      "cliente": "CAP / CMP (vía Cleanairtech / Tecnocap)",
+      "ubicacion": "Región de Atacama",
+      "monto": "",
+      "fuente": "https://www.cap.cl/cap/site/artic/20160510/asocfile/20160510113850/cap_ifrs_consolidado_2015_09_30_esp.pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "José González M.",
+      "cargo": "Jefe de Proyecto de la Planta Desalinizadora de CAP",
+      "tipo": "Mandante (CAP/CMP)",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jose%20Gonzalez%20CAP%20desaladora",
+      "fuente": "https://mediacdn.acciona.com/media/1002833/report_50.pdf"
+    },
+    {
+      "nombre": "Julio Zorrilla",
+      "cargo": "Director de Construcción Internacional de ACCIONA Agua / Director de Construcción desaladora Copiapó",
+      "tipo": "EPC (ACCIONA Agua)",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Julio%20Zorrilla%20Acciona%20Agua",
+      "fuente": "https://mediacdn.acciona.com/media/1002833/report_50.pdf"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Puerto Punta Totoralillo, Región de Atacama, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.acciona.com/es/proyectos/idam-copiapo",
+    "fuente": "https://www.acciona.com/es/proyectos/idam-copiapo"
+  }
+}

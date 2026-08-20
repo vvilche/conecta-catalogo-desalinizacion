@@ -1,0 +1,90 @@
+{
+  "empresa": "Aquatech International",
+  "slug": "aquatech",
+  "rubro": "Tecnología de tratamiento de agua / ósmosis inversa",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Aquatech International Corporation, proveedor global de tecnología de tratamiento de agua (ultrafiltración y ósmosis inversa). Diseñó y suministró los módulos UF y SWRO (400 l/s) de la planta desaladora de Los Pelambres (proyecto INCO).",
+    "fundada": "1981",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Aquatech International Corporation (privada)",
+    "rut": "no verificado",
+    "sede": "Canonsburg, Pennsylvania, EE.UU. (sin oficina local confirmada en Chile)",
+    "fuentes": [
+      "https://www.linkedin.com/company/aquatechinternationalcorporation"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Diseño y suministro de módulos de ósmosis inversa (SWRO) y ultrafiltración (UF)",
+      "Sistemas de tratamiento y reutilización de agua industrial",
+      "Tecnología de desalinización para minería y generación",
+      "Ingeniería de procesos de agua"
+    ],
+    "rol_cadena": "Proveedor de tecnología/ingeniería de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.linkedin.com/posts/giancarlobarassi_excellent-video-from-acades-at-minera-los-activity-7350972680281509891-zgo9",
+      "https://conecta.pactoglobal.cl/whq_objetivo/agua-limpia-y-saneamiento/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Módulos UF + SWRO (400 l/s), planta desaladora Los Pelambres (INCO)",
+      "cliente": "Minera Los Pelambres (Antofagasta Minerals)",
+      "ubicacion": "Puerto Punta Chungo, Los Vilos, Región de Coquimbo",
+      "monto": "",
+      "fuente": "https://www.linkedin.com/posts/giancarlobarassi_excellent-video-from-acades-at-minera-los-activity-7350972680281509891-zgo9"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Giancarlo Barassi",
+      "cargo": "Business Development Manager, Latin America (Aquatech)",
+      "tipo": "Comercial / Desarrollo",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/giancarlobarassi",
+      "fuente": "https://cl.linkedin.com/in/giancarlobarassi"
+    },
+    {
+      "nombre": "Devesh Sharma",
+      "cargo": "Chief Executive Officer (CEO), Aquatech",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Devesh%20Sharma%20Aquatech",
+      "fuente": "https://www.linkedin.com/company/aquatechinternationalcorporation"
+    },
+    {
+      "nombre": "Ravi Chidambaram",
+      "cargo": "President & Chief Technology Officer (CTO), Aquatech",
+      "tipo": "Ingeniería / Tecnología",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ravi%20Chidambaram%20Aquatech",
+      "fuente": "https://www.linkedin.com/company/aquatechinternationalcorporation"
+    },
+    {
+      "nombre": "Venkee Sharma",
+      "cargo": "Executive Chairman, Aquatech",
+      "tipo": "Directorio",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Venkee%20Sharma%20Aquatech",
+      "fuente": "https://www.linkedin.com/company/aquatechinternationalcorporation"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Canonsburg, Pennsylvania, EE.UU.",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.aquatech.com",
+    "fuente": "https://www.linkedin.com/company/aquatechinternationalcorporation"
+  }
+}

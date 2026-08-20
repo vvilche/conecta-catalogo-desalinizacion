@@ -1,0 +1,120 @@
+{
+  "empresa": "Desaladora Collahuasi (Proyecto C20+ / IDAM)",
+  "slug": "collahuasi_idam",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Desaladora del proyecto C20+ (Desarrollo de Infraestructura y Mejoramiento de Capacidad Productiva Collahuasi) de Compañía Minera Doña Inés de Collahuasi (CMDIC), en Puerto Patache, ~70 km al sur de Iquique, Región de Tarapacá. Capacidad 1.050 L/s. Tecnología de ósmosis inversa. MANDANTE: CMDIC / Collahuasi. EPC + O&M (2 años, ampliables +3): ACCIONA. INGENIERÍA TEMPRANA (asesoría): Bechtel. Sistema de impulsión (~194 km de tubería) adjudicado a Techint. Avance global ~86,6% a mediados de 2025, en etapa de precomisionamiento/comisionamiento; puesta en marcha proyectada para 2026.",
+    "fundada": "2026 (puesta en marcha proyectada)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Collahuasi (Anglo American, Glencore, Japan Collahuasi Resources)",
+    "rut": "",
+    "sede": "Puerto Patache, ~70 km al sur de Iquique, Región de Tarapacá, Chile",
+    "fuentes": [
+      "https://www.acciona.com/es/proyectos/idam-collahuasi",
+      "https://www.collahuasi.cl/proyecto-c20/",
+      "https://www.collahuasi.cl/wp-content/uploads/2025/07/reporte-sustentabilidad-collahuasi-2024.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Obras marinas de captación de agua de mar",
+      "Pretratamiento y ósmosis inversa (1.050 L/s)",
+      "Impulsión por ~194-195 km de tubería hasta la faena (~4.400-4.600 msnm)",
+      "Post-tratamiento de agua industrial",
+      "Transmisión eléctrica asociada"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización con EPC + O&M inicial a cargo de ACCIONA",
+    "fuentes": [
+      "https://www.acciona.com/es/proyectos/idam-collahuasi",
+      "https://www.collahuasi.cl/proyecto-c20/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Proyecto C20+ — desaladora IDAM Collahuasi (EPC + O&M)",
+      "cliente": "Compañía Minera Doña Inés de Collahuasi (CMDIC)",
+      "ubicacion": "Puerto Patache, Tarapacá",
+      "monto": "",
+      "fuente": "https://www.acciona.com/es/proyectos/idam-collahuasi"
+    },
+    {
+      "proyecto": "Sistema de impulsión (~194 km de tubería) y obras eléctricas",
+      "cliente": "Collahuasi (contrato a Techint)",
+      "ubicacion": "Puerto Patache, Tarapacá",
+      "monto": "",
+      "fuente": "https://www.inteligenciacomercial.cl/intranet/fvproyecto.php?sc=1"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Patricio Hidalgo",
+      "cargo": "Presidente Ejecutivo, Collahuasi (desde julio 2026)",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patricio%20Hidalgo%20Collahuasi",
+      "fuente": "https://chile.angloamerican.com/es-es/medios/noticias/pr-2026/2026-06-03"
+    },
+    {
+      "nombre": "Alejandro Verdugo",
+      "cargo": "Vicepresidente de Proyectos, Collahuasi",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alejandro%20Verdugo%20Collahuasi",
+      "fuente": "https://www.collahuasi.cl/quienes-somos/gobierno-corporativo/"
+    },
+    {
+      "nombre": "Dalibor Dragicevic",
+      "cargo": "Vicepresidente Ejecutivo de Operaciones, Collahuasi",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dalibor%20Dragicevic%20Collahuasi",
+      "fuente": "https://www.collahuasi.cl/quienes-somos/gobierno-corporativo/"
+    },
+    {
+      "nombre": "Claudio Muñoz",
+      "cargo": "Vicepresidente de Procesos, Collahuasi",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Claudio%20Munoz%20Collahuasi",
+      "fuente": "https://www.collahuasi.cl/quienes-somos/gobierno-corporativo/"
+    },
+    {
+      "nombre": "Trevor John Dyer",
+      "cargo": "Vicepresidente de Finanzas y Administración, Collahuasi",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Trevor%20Dyer%20Collahuasi",
+      "fuente": "https://www.collahuasi.cl/quienes-somos/gobierno-corporativo/"
+    },
+    {
+      "nombre": "Mario Quiñones",
+      "cargo": "Vicepresidente de Desarrollo y Sustentabilidad, Collahuasi",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mario%20Quinones%20Collahuasi",
+      "fuente": "https://www.collahuasi.cl/quienes-somos/gobierno-corporativo/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Puerto Patache, ~70 km al sur de Iquique, Región de Tarapacá, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.collahuasi.cl",
+    "fuente": "https://www.collahuasi.cl/proyecto-c20/"
+  }
+}

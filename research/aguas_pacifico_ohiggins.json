@@ -1,0 +1,77 @@
+{
+  "empresa": "Aguas Pacífico SpA — Proyecto O'Higgins (sin confirmar) / Desala O'Higgins",
+  "slug": "aguas_pacifico_ohiggins",
+  "rubro": "Planta desalinizadora multipropósito — Región de O'Higgins (en evaluación)",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "IMPORTANTE — no verificado como tal: NO se encontró evidencia de una planta desaladora 'O'Higgins' de Aguas Pacífico SpA (1.000 L/s) distinta del proyecto Aconcagua (Región de Valparaíso). El proyecto multipropósito real en la Región de O'Higgins es 'Desala O'Higgins', titular Sociedad Desala, cuenca Costeras Rapel–El Nilahue, capacidad estimada 3.000 L/s, en etapa de diseño/evaluación (licitación concesión proyectada 2026 por MOP). Por su parte, Aguas Pacífico SpA está expandiendo el proyecto Aconcagua a 2.000 L/s (segundo módulo de 1.000 L/s adicionales, RCA aprobada abril 2026). Tecnología: ósmosis inversa. EPC/ingeniería del proyecto O'Higgins: no identificado públicamente. Se registra el dato para el expediente, marcando los campos sin fuente como vacíos.",
+    "fundada": "no verificado (proyecto en evaluación)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Desala (titular 'Desala O'Higgins') · Aguas Pacífico SpA — Patria (proyecto Aconcagua)",
+    "rut": "",
+    "sede": "Región de O'Higgins, cuenca Costeras Rapel–El Nilahue, Chile",
+    "fuentes": [
+      "https://desala.cl/es/proyectos/",
+      "https://es.wikipedia.org/wiki/Catastro_nacional_de_plantas_y_proyectos_de_desalinizaci%C3%B3n_de_agua_de_mar_en_Chile",
+      "https://www.aguaspacifico.cl/noticias/aguas-pacfico-obtiene-permiso-ambiental-rcapara-proyecto-que-aumenta-la-produccinde-agua-desalinizada-a-2000-ls"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Desalación multipropósito (consumo humano, agrícola, industrial)",
+      "Ósmosis inversa de agua de mar",
+      "Apoyo al embalse Convento Viejo / liberación de agua continental"
+    ],
+    "rol_cadena": "Proceso continuo (proyecto en evaluación)",
+    "fuentes": [
+      "https://copsa.cl/2023/07/21/mop-acelerara-la-concesion-de-desaladoras-en-las-regiones-de-coquimbo-y-ohiggins/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Desala O'Higgins — desaladora multipropósito 3.000 L/s (en diseño/evaluación)",
+      "cliente": "Sociedad Desala",
+      "ubicacion": "Región de O'Higgins, cuenca Costeras Rapel–El Nilahue",
+      "monto": "",
+      "fuente": "https://desala.cl/es/proyectos/"
+    },
+    {
+      "proyecto": "Ampliación Aconcagua a 2.000 L/s (1.000 L/s adicionales, RCA abril 2026)",
+      "cliente": "Aguas Pacífico SpA",
+      "ubicacion": "Región de Valparaíso",
+      "monto": "US$ 280 millones (aprox.)",
+      "fuente": "https://www.aguaspacifico.cl/noticias/aguas-pacfico-obtiene-permiso-ambiental-rcapara-proyecto-que-aumenta-la-produccinde-agua-desalinizada-a-2000-ls"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Javier Moreno Hueyo",
+      "cargo": "Gerente General de Aguas Pacífico SpA",
+      "tipo": "Mandante (Aconcagua)",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Javier%20Moreno%20Hueyo%20Aguas%20Pacifico",
+      "fuente": "https://www.aguaspacifico.cl/nosotros"
+    },
+    {
+      "nombre": "Sergio Rosales",
+      "cargo": "Director de Ingeniería y Desarrollo de Aguas Pacífico",
+      "tipo": "Mandante (Aconcagua)",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sergio%20Rosales%20Aguas%20Pacifico",
+      "fuente": "https://www.aguaspacifico.cl/nosotros"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "",
+    "web": "https://desala.cl",
+    "fuente": "https://desala.cl/es/proyectos/"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "empresa": "Desaladora RT Sulfuros — Codelco (BOOT Aguas Horizonte)",
+  "slug": "rt_sulfuros",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora del proyecto RT Sulfuros (Suministro de Agua Desalada Distrito Norte) de Codelco, División Radomiro Tomic. Modelo BOOT: MANDANTE (titular) Codelco División Radomiro Tomic; vehículo BOOT Aguas Horizonte SpA (consorcio Marubeni + Transelec), que financia, construye, es dueño y opera por 20 años antes de transferir a Codelco. EPC/CONSTRUCTORA: Techint E&C (ingeniería, procura y construcción de la desaladora y sistema de impulsión). Etapa 1: 840 L/s de diseño / 630 L/s nominal; meta total 1.956 L/s. En construcción (inicio mayo 2023, avance ~63% a dic 2024), entrega de Etapa 1 prevista para 2026. Tecnología de ósmosis inversa, acueducto de ~160 km, reservorio de ~250.000 m³ en RT y estaciones de bombeo.",
+    "fundada": "2026 (Etapa 1 prevista)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Codelco (División Radomiro Tomic) / BOOT Aguas Horizonte SpA (Marubeni + Transelec)",
+    "rut": "",
+    "sede": "Radomiro Tomic, Región de Antofagasta, Chile (captación costera)",
+    "fuentes": [
+      "https://www.aguashorizonte.cl/",
+      "https://www.df.cl/noticias/site/docs/20250929/20250929204554/suplemento_20250930.pdf",
+      "https://codelco.com/prontus_codelco/site/docs/20251002/20251002120038/reporte_de_cambio_climatico_ok.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar y descarga de efluente",
+      "Ósmosis inversa (Etapa 1: 840 L/s diseño / 630 L/s nominal; meta 1.956 L/s)",
+      "Impulsión por acueducto de ~160 km hasta reservorio en Radomiro Tomic",
+      "Almacenamiento en reservorio de ~250.000 m³",
+      "Estaciones de bombeo, subestaciones y líneas de transmisión"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización bajo contrato BOOT de 20 años",
+    "fuentes": [
+      "https://www.aguashorizonte.cl/proyecto",
+      "https://codelco.com/prontus_codelco/site/docs/20251002/20251002120038/reporte_de_cambio_climatico_ok.pdf"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Desaladora RT Sulfuros — Etapa 1 (840 L/s / 630 L/s nominal)",
+      "cliente": "Codelco División Radomiro Tomic (BOOT Aguas Horizonte SpA)",
+      "ubicacion": "Radomiro Tomic, Antofagasta",
+      "monto": "",
+      "fuente": "https://es.scribd.com/document/406508528/Capitulo-1-Descripcion-de-Proyecto-pdf"
+    },
+    {
+      "proyecto": "EPC desaladora y sistema de impulsión (Techint E&C)",
+      "cliente": "Aguas Horizonte SpA (Marubeni + Transelec)",
+      "ubicacion": "Radomiro Tomic / costa, Antofagasta",
+      "monto": "",
+      "fuente": "https://www.df.cl/noticias/site/docs/20250929/20250929204554/suplemento_20250930.pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Claudia Domínguez Sepúlveda",
+      "cargo": "Gerente General, División Radomiro Tomic (Codelco)",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Claudia%20Dominguez%20Codelco%20Radomiro%20Tomic",
+      "fuente": "https://www.codelco.com/codelco-designa-nueva-gerenta-general-de-radomiro-tomic-y-nuevo"
+    },
+    {
+      "nombre": "Rubén Alvarado",
+      "cargo": "Presidente Ejecutivo, Codelco",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ruben%20Alvarado%20Codelco",
+      "fuente": "https://www.codelco.com/codelco-designa-nueva-gerenta-general-de-radomiro-tomic-y-nuevo"
+    },
+    {
+      "nombre": "Julio Díaz Rivera",
+      "cargo": "Vicepresidente de Recursos Mineros, Desarrollo e Innovación, Codelco",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Julio%20Diaz%20Rivera%20Codelco",
+      "fuente": "https://www.codelco.com/codelco-designa-nueva-gerenta-general-de-radomiro-tomic-y-nuevo"
+    },
+    {
+      "nombre": "Lindor Quiroga Bugueño",
+      "cargo": "Vicepresidente de Operaciones (interino), Codelco",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lindor%20Quiroga%20Codelco",
+      "fuente": "https://www.codelco.com/prensa/2026/nuevos-directores-de-codelco-encabezados-por-bernardo-fontaine-visitan"
+    },
+    {
+      "nombre": "Aguas Horizonte SpA (Marubeni + Transelec)",
+      "cargo": "Concesionario BOOT (construye, opera 20 años y transfiere)",
+      "tipo": "BOOT / Inversionista",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "",
+      "fuente": "https://www.aguashorizonte.cl/"
+    },
+    {
+      "nombre": "Techint E&C",
+      "cargo": "Contratista EPC (ingeniería, procura y construcción)",
+      "tipo": "EPC / Constructor",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "",
+      "fuente": "https://www.df.cl/noticias/site/docs/20250929/20250929204554/suplemento_20250930.pdf"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "División Radomiro Tomic, Región de Antofagasta, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.codelco.com",
+    "fuente": "https://www.aguashorizonte.cl/"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "empresa": "Claro, Vicuña, Valenzuela S.A. (CVV)",
+  "slug": "claro_vicuna_valenzuela",
+  "rubro": "Ingeniería y construcción (CVV, Chile)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Claro, Vicuña, Valenzuela S.A. (CVV), constructora e ingeniería chilena con más de 65 años de trayectoria. Socia (35%) del consorcio Inima-CVV que ejecutó el EPC y O&M de la Planta Desaladora de Atacama / Nueva Atacama.",
+    "fundada": "1957 (constitución 31/07/1957; LinkedIn indica 1958)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Grupo CVV (Claro-Vicuña-Valenzuela)",
+    "rut": "80.207.900-1",
+    "sede": "Cerro El Plomo 5420, piso 10, Santiago, Región Metropolitana",
+    "fuentes": [
+      "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&grupo=&mercado=V&pestania=25&row=&rut=80207900&tipoentidad=RVEMI&vig=NV",
+      "https://registros19862.gob.cl/institucion/80207900/ficha"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Ingeniería y construcción (EPC) de infraestructura y proyectos industriales",
+      "Obras civiles y montaje electromecánico",
+      "Construcción de plantas desaladoras (consorcio Inima-CVV)",
+      "Proyectos de minería, obra pública y vivienda"
+    ],
+    "rol_cadena": "Constructora/EPC de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.inima.com/wp-content/uploads/2023/05/Leaflet-atacama_proyecto_ES.pdf",
+      "https://cl.linkedin.com/company/claro-vicu%C3%B1a-valenzuela"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta Desaladora de Atacama / Nueva Atacama (consorcio Inima-CVV, CVV 35%)",
+      "cliente": "ECONSSA Chile S.A.",
+      "ubicacion": "Caldera / Copiapó, Región de Atacama",
+      "monto": "",
+      "fuente": "https://www.inima.com/wp-content/uploads/2023/05/Leaflet-atacama_proyecto_ES.pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Gustavo Vicuña Molina",
+      "cargo": "Gerente General, Grupo CVV",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/gustavo-vicu%C3%B1a-molina-884114119",
+      "fuente": "https://cl.linkedin.com/in/gustavo-vicu%C3%B1a-molina-884114119"
+    },
+    {
+      "nombre": "Carlos Eugenio Molinare Vergara",
+      "cargo": "Presidente del Directorio, CVV",
+      "tipo": "Directorio",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Carlos%20Molinare%20Claro%20Vicuna%20Valenzuela",
+      "fuente": "https://www.cmfchile.cl/institucional/inc/directores_pdf.php?comite_aux=N&info=1&razon=&rut=80207900&txt_inicio=&txt_termino="
+    },
+    {
+      "nombre": "Christian Trench Rojas",
+      "cargo": "Sub-Gerente Gestión Contractual, CVV",
+      "tipo": "Gestión contractual / Comercial",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/christian-trench-rojas-180b4047",
+      "fuente": "https://cl.linkedin.com/in/christian-trench-rojas-180b4047"
+    },
+    {
+      "nombre": "Claro Vicuña Cienfuegos Maggi",
+      "cargo": "Jefe de Operaciones, Claro Vicuña Valenzuela",
+      "tipo": "Operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/claro-vicu%C3%B1a-cienfuegos-maggi-b2500941",
+      "fuente": "https://cl.linkedin.com/in/claro-vicu%C3%B1a-cienfuegos-maggi-b2500941"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Cerro El Plomo 5420, piso 10, Santiago, Región Metropolitana",
+    "telefono": "",
+    "correo": "",
+    "web": "https://cl.linkedin.com/company/claro-vicu%C3%B1a-valenzuela",
+    "fuente": "https://cl.linkedin.com/company/claro-vicu%C3%B1a-valenzuela"
+  }
+}

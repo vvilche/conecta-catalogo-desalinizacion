@@ -1,0 +1,91 @@
+{
+  "empresa": "Tedagua (Grupo Cobra / ACS / Vinci)",
+  "slug": "tedagua",
+  "rubro": "EPC / BOOT de desalinización (Grupo Cobra-ACS)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Técnicas de Desalinización de Aguas S.A. (Tedagua), especialista en desalinización, depuración y reutilización de agua. Filial del Grupo Cobra (ACS, hoy Cobra IS parte de Vinci). En Chile desarrolla el BOOT de la desaladora Spence a través de la concesionaria CAITAN SpA.",
+    "fundada": "1983 (Las Palmas de Gran Canaria, España)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Grupo Cobra / ACS / Vinci",
+    "rut": "no verificado",
+    "sede": "Madrid, España (operación en Chile vía CAITAN SpA)",
+    "fuentes": [
+      "https://www.tedagua.com/es/about-us",
+      "https://www.tedagua.com/uploads/folleto-oil-gas.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Diseño y construcción (EPC) de plantas desaladoras",
+      "Desalación por ósmosis inversa para minería",
+      "Concesiones BOOT: diseño, construcción, financiación y operación (CAITAN SpA)",
+      "Obras marinas, captación e impulsión de agua desalada"
+    ],
+    "rol_cadena": "EPC/concesionaria de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.tedagua.com/es/about-us",
+      "https://www.iagua.es/noticias/tedagua/tedagua-completa-nueva-desaladora-1000-lps-chile-mineria"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta desaladora Spence BOOT (~1.000 l/s, 86.400 m³/día)",
+      "cliente": "Minera Spence (BHP) — vía concesionaria CAITAN SpA (Mitsui + Tedagua)",
+      "ubicacion": "Bahía de Mejillones, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://www.iagua.es/noticias/tedagua/tedagua-completa-nueva-desaladora-1000-lps-chile-mineria"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Carlos Moreno Álvarez",
+      "cargo": "Director General / CEO, CAITAN SpA (concesionaria BOOT desaladora Spence)",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/carlos-moreno-%C3%A1lvarez",
+      "fuente": "https://cl.linkedin.com/in/carlos-moreno-%C3%A1lvarez"
+    },
+    {
+      "nombre": "Hans Allendes Arcos",
+      "cargo": "Chief Technical Officer (CTO), CAITAN SpA",
+      "tipo": "Ingeniería / Tecnología",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hans%20Allendes%20Caitan%20SpA",
+      "fuente": "https://www.linkedin.com/company/caitan-spa"
+    },
+    {
+      "nombre": "Michael Guerrero",
+      "cargo": "Jefe de Operaciones / Supervisor de planta, Planta desaladora CAITAN Spence",
+      "tipo": "Operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/michael-guerrero-71a277256",
+      "fuente": "https://cl.linkedin.com/in/michael-guerrero-71a277256"
+    },
+    {
+      "nombre": "Javier Hidalgo González",
+      "cargo": "CEO de Tedagua / Managing Director Environment, Cobra IS (Vinci)",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Javier%20Hidalgo%20Tedagua",
+      "fuente": "https://people.equilar.com/bio/person/javier-gonzalez-vinci-sa/68344884"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Madrid, España (sin sede local confirmada en Chile)",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.tedagua.com",
+    "fuente": "https://www.tedagua.com/es/about-us"
+  }
+}

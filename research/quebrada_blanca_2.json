@@ -1,0 +1,130 @@
+{
+  "empresa": "Desaladora Quebrada Blanca Fase 2 (QB2) — Teck",
+  "slug": "quebrada_blanca_2",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora de Quebrada Blanca Fase 2 (QB2) de Compañía Minera Teck Quebrada Blanca S.A. (QBSA), en Punta Patache, ~70 km al sur de Iquique, Región de Tarapacá. Capacidad ~1.184 L/s (~102.360 m³/d). Construcción completada en octubre de 2023. Tecnología de ósmosis inversa (SWRO) con diseño modular MPD. MANDANTE: Teck Quebrada Blanca (Teck 60%, Sumitomo Metal Mining + Sumitomo Corporation 30%, ENAMI 10%). EPC/INGENIERÍA/DISEÑO: IDE Technologies (tecnología RO modular). CONSTRUCTORA (obras civiles y montaje electromecánico): Besalco (Besalco QB2). El agua se bombea ~165 km hasta la mina a ~4.200-4.400 msnm.",
+    "fundada": "2023",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Teck Resources (60% indirecto) / Sumitomo (30%) / ENAMI (10%)",
+    "rut": "",
+    "sede": "Punta Patache, Iquique, Región de Tarapacá, Chile",
+    "fuentes": [
+      "https://www.teck.com/operations/chile/projects/quebrada-blanca-phase-2/",
+      "https://ide-tech.com/es/project/planta-de-fase-2-quebrada-blanca-qb2-chile/",
+      "https://www.besalcomontajes.cl/proyectos/desal-plant-and-port-on-shore-works-proyecto-quebrada-blanca-2.html"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar en Punta Patache",
+      "Ósmosis inversa (SWRO, ~1.184 L/s / 102.360 m³/d)",
+      "Impulsión por ~165 km de tubería hasta la mina (4.200-4.400 msnm)",
+      "Post-tratamiento de agua industrial",
+      "Suministro a la operación QB2"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización que abastece la faena Quebrada Blanca",
+    "fuentes": [
+      "https://ide-tech.com/es/project/planta-de-fase-2-quebrada-blanca-qb2-chile/",
+      "https://www.teck.com/noticias-es/comunicados-de-prensa-es/2017-es/estudio-factibilidad-quebrada-blanca-fase-2"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta desaladora QB2 + obras marinas y conducción",
+      "cliente": "Compañía Minera Teck Quebrada Blanca S.A.",
+      "ubicacion": "Punta Patache, Iquique, Tarapacá",
+      "monto": "",
+      "fuente": "https://ide-tech.com/es/project/planta-de-fase-2-quebrada-blanca-qb2-chile/"
+    },
+    {
+      "proyecto": "Obras civiles, estructurales y electromecánicas desaladora QB2",
+      "cliente": "IDE Technologies / Teck QB2 (Besalco QB2)",
+      "ubicacion": "Punta Patache, Iquique, Tarapacá",
+      "monto": "",
+      "fuente": "https://www.besalcomontajes.cl/proyectos/desal-plant-and-port-on-shore-works-proyecto-quebrada-blanca-2.html"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Enrique Castro",
+      "cargo": "Gerente General, Teck Quebrada Blanca",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enrique%20Castro%20Teck%20Quebrada%20Blanca",
+      "fuente": "https://www.quebradablancafase2.cl/2022/09/20/autoridades-regionales-de-medio-ambiente-visitaron-instalaciones-del-area-puerto-del-proyecto-qb2/"
+    },
+    {
+      "nombre": "Dale Webb",
+      "cargo": "Vicepresidente Senior, Operaciones Latinoamérica (Teck)",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dale%20Webb%20Teck",
+      "fuente": "https://www.teck.com/about/leadership/"
+    },
+    {
+      "nombre": "Jonathan Price",
+      "cargo": "Presidente y CEO, Teck Resources",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jonathan%20Price%20Teck",
+      "fuente": "https://www.quebradablancafase2.cl/2023/10/30/teck-inaugura-nueva-fase-operacional-de-quebrada-blanca/"
+    },
+    {
+      "nombre": "Jaime Ferrada",
+      "cargo": "Gerente de Operaciones, Quebrada Blanca",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jaime%20Ferrada%20Teck%20Quebrada%20Blanca",
+      "fuente": "https://www.direcmin.com/teck-quebrada-blanca/ejecutivos"
+    },
+    {
+      "nombre": "José Miguel Ríos",
+      "cargo": "Gerente de Mantenimiento, Quebrada Blanca",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jose%20Miguel%20Rios%20Teck",
+      "fuente": "https://www.direcmin.com/teck-quebrada-blanca/ejecutivos"
+    },
+    {
+      "nombre": "Cristian Rojas",
+      "cargo": "Gerente de Servicios Técnicos, Quebrada Blanca",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristian%20Rojas%20Teck%20Quebrada%20Blanca",
+      "fuente": "https://www.direcmin.com/teck-quebrada-blanca/ejecutivos"
+    },
+    {
+      "nombre": "Claudia Garcés",
+      "cargo": "Gerente de Medio Ambiente, Quebrada Blanca",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Claudia%20Garces%20Teck",
+      "fuente": "https://www.direcmin.com/teck-quebrada-blanca/ejecutivos"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Punta Patache, Iquique, Región de Tarapacá, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.teck.com",
+    "fuente": "https://www.teck.com/operations/chile/projects/quebrada-blanca-phase-2/"
+  }
+}

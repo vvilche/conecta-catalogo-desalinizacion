@@ -1,0 +1,108 @@
+{
+  "empresa": "Desaladora Santo Domingo — Capstone Copper",
+  "slug": "santo_domingo",
+  "rubro": "Desalinización de agua de mar — minería del cobre y hierro",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Proyecto de desaladora de Minera Santo Domingo SCM, 100% de Capstone Copper, para el depósito Santo Domingo (Región de Atacama). En el catastro nacional aparece con 30 L/s y evaluación ambiental aprobada; el EIA de la mina se aprobó en 2015 y el de la planta desalinizadora en 2020. El Estudio de Factibilidad 2024 contempla capacidades mayores de agua para proceso. Se proyecta un contrato tipo BOOT para la desaladora portuaria (toma de agua de mar, ósmosis inversa, retorno de salmuera y tubería de suministro); EPC aún no adjudicado. INGENIERÍA/DISEÑO: Ausenco Chile (estudio de factibilidad actualizado 2024); EIA elaborado por Knight Piésold.",
+    "fundada": "proyecto (EIA desaladora aprobado 2020)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Capstone Copper (100%)",
+    "rut": "",
+    "sede": "Santo Domingo, Región de Atacama, Chile",
+    "fuentes": [
+      "https://capstonecopper.com/es/operaciones/santo-domingo/",
+      "https://capstonecopper.com/news/capstone-announces-updated-santo-domingo-feasibility-study-building-a-world-class-district-in-chile/",
+      "https://es.wikipedia.org/wiki/Catastro_nacional_de_plantas_y_proyectos_de_desalinizaci%C3%B3n_de_agua_de_mar_en_Chile"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar (toma) y retorno de salmuera",
+      "Ósmosis inversa (planta desalinizadora portuaria)",
+      "Tubería de suministro de agua desalada a proceso",
+      "Abastecimiento de agua de proceso para la mina"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización proyectado bajo contrato BOOT para el desarrollo minero Santo Domingo",
+    "fuentes": [
+      "https://capstonecopper.com/news/capstone-announces-updated-santo-domingo-feasibility-study-building-a-world-class-district-in-chile/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta desalinizadora portuaria Santo Domingo (BOOT proyectado)",
+      "cliente": "Minera Santo Domingo SCM (Capstone Copper)",
+      "ubicacion": "Santo Domingo, Región de Atacama",
+      "monto": "",
+      "fuente": "https://capstonecopper.com/news/capstone-announces-updated-santo-domingo-feasibility-study-building-a-world-class-district-in-chile/"
+    },
+    {
+      "proyecto": "Estudio de Factibilidad actualizado 2024 (Ausenco Chile)",
+      "cliente": "Capstone Copper",
+      "ubicacion": "Santo Domingo, Región de Atacama",
+      "monto": "",
+      "fuente": "https://capstonecopper.com/news/capstone-announces-updated-santo-domingo-feasibility-study-building-a-world-class-district-in-chile/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "John Mackenzie",
+      "cargo": "CEO, Capstone Copper",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=John%20Mackenzie%20Capstone%20Copper",
+      "fuente": "https://capstonecopper.com/news/capstone-announces-updated-santo-domingo-feasibility-study-building-a-world-class-district-in-chile/"
+    },
+    {
+      "nombre": "Pedro Amelunxen",
+      "cargo": "Senior Vice President Technical Services, Capstone Copper",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pedro%20Amelunxen%20Capstone",
+      "fuente": "https://capstonecopper.com/news/capstone-announces-updated-santo-domingo-feasibility-study-building-a-world-class-district-in-chile/"
+    },
+    {
+      "nombre": "Jaime Rivera",
+      "cargo": "Gerente General, Proyecto Santo Domingo",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jaime%20Rivera%20Santo%20Domingo%20Capstone",
+      "fuente": "https://www.latinmining.com/articulos/capstone-copper-fortalece-santo-domingo-y-prepara-su-proxima-gran-etapa-de-crecimiento-en-chile"
+    },
+    {
+      "nombre": "Jerrold Annett",
+      "cargo": "Senior Vice President, Strategy & Capital Markets, Capstone Copper",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jerrold%20Annett%20Capstone",
+      "fuente": "https://www.businesswire.com/news/home/20251013768196/en/Capstone-Copper-Announces-up-to-%24360-Million-Investment-from-Orion-for-25-Interest-in-Santo-Domingo"
+    },
+    {
+      "nombre": "Fernando Ramírez",
+      "cargo": "Gerente de Personas, Santo Domingo (Capstone Copper)",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fernando%20Ramirez%20Capstone%20Copper",
+      "fuente": "https://rhmanagement.cl/fernando-ramirez-asume-como-gerente-de-personas-en-capstone-copper/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Santo Domingo, Región de Atacama, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://capstonecopper.com",
+    "fuente": "https://capstonecopper.com/es/operaciones/santo-domingo/"
+  }
+}

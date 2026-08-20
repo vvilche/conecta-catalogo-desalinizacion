@@ -1,0 +1,78 @@
+{
+  "empresa": "Bechtel Chile",
+  "slug": "bechtel",
+  "rubro": "EPC global de infraestructura y desalinización",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Bechtel, una de las mayores empresas EPC del mundo (EE.UU.), con filial Bechtel Chile Limitada. Ejecutó el EPC de desaladoras mineras como Escondida Water Supply y la planta desalinizadora de Los Pelambres.",
+    "fundada": "no verificado (Bechtel Corporation, EE.UU.)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Bechtel Corporation (EE.UU.)",
+    "rut": "95.207.000-2 (Bechtel Chile Limitada)",
+    "sede": "Av. Apoquindo 3885, Piso 16, Las Condes, Santiago, Chile",
+    "fuentes": [
+      "https://www.portalchile.org/empresa/bechtel-chile-limitada-95207000",
+      "https://www.bechtel.com/contact/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Ingeniería, procura y construcción (EPC) de plantas desaladoras",
+      "Obras de captación, conducción y estaciones de bombeo de alta presión",
+      "Infraestructura eléctrica para proyectos mineros",
+      "Puesta en marcha (commissioning) de plantas industriales"
+    ],
+    "rol_cadena": "EPC de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.bechtel.com/projects/escondida-water-supply/",
+      "https://www.bechtel.com/blog/desalination-plants-for-the-mining-industry-promoting-efficient-water-usage/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Escondida Water Supply (EWS) — desaladora + conducción",
+      "cliente": "Minera Escondida (BHP)",
+      "ubicacion": "Antofagasta, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://www.bechtel.com/projects/escondida-water-supply/"
+    },
+    {
+      "proyecto": "Planta desalinizadora Los Pelambres (INCO, EPC)",
+      "cliente": "Minera Los Pelambres (Antofagasta Minerals)",
+      "ubicacion": "Puerto Punta Chungo, Los Vilos, Región de Coquimbo",
+      "monto": "",
+      "fuente": "https://www.bechtel.com/blog/desalination-plants-for-the-mining-industry-promoting-efficient-water-usage/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Luis Hernán González Durán",
+      "cargo": "Gerente General, Bechtel Chile Construcción Limitada",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/luis-hern%C3%A1n-gonz%C3%A1lez-dur%C3%A1n-68b00616",
+      "fuente": "https://cl.linkedin.com/in/luis-hern%C3%A1n-gonz%C3%A1lez-dur%C3%A1n-68b00616"
+    },
+    {
+      "nombre": "José Luis Roa",
+      "cargo": "Supervisor de Ingeniería, Bechtel Chile Ltda.",
+      "tipo": "Ingeniería",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jose%20Luis%20Roa%20Bechtel%20Chile",
+      "fuente": "https://www.signalhire.com/profiles/jose-luis-roa/239945530"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Apoquindo 3885, Piso 16, Las Condes, Santiago, Chile",
+    "telefono": "+56 2 2675 1000",
+    "correo": "",
+    "web": "https://www.bechtel.com",
+    "fuente": "https://www.bechtel.com/contact/"
+  }
+}

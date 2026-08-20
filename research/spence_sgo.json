@@ -1,0 +1,100 @@
+{
+  "empresa": "Desaladora Spence Growth Option (SGO) — Minera Spence / BHP",
+  "slug": "spence_sgo",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora del proyecto Spence Growth Option (SGO) de Minera Spence S.A. (BHP), en Mejillones, Región de Antofagasta. Capacidad ~1.000 L/s (~86.400 m³/d), cubre prácticamente el 100% del agua de proceso de la mina. Tecnología de ósmosis inversa (RO). Modelo BOOT (Build-Own-Operate-Transfer): MANDANTE Minera Spence S.A. (BHP); EPC + OPERADOR (O&M 20 años, ampliables 5+5): Tedagua (Grupo Cobra) en consorcio CAITAN SpA (Tedagua + Mitsui & Co.). Puesta en marcha en febrero de 2021. Incluye 154 km de tubería de 36 pulgadas, 3 estaciones de bombeo y línea de transmisión de 66 kV (~75 km).",
+    "fundada": "2021",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Minera Spence S.A. / BHP",
+    "rut": "",
+    "sede": "Mejillones, Región de Antofagasta, Chile",
+    "fuentes": [
+      "https://www.tedagua.com/en/project/desalination-plant-for-the-spence-mine",
+      "https://www.tedagua.com/en/news/news/tedagua-will-build-a-seawater-desalination-plant-and-water-supply-for-the-spence-mine-in-chile",
+      "https://pya.cl/planta-desaladora-agua-de-mar-proyecto-spence-growth-option-sgo-de-bhp/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación y obras marinas de agua de mar",
+      "Ósmosis inversa (~1.000 L/s / 86.400 m³/d)",
+      "Impulsión por 154 km de tubería de 36 pulgadas con 3 estaciones de bombeo (desnivel 1.600-2.000 m)",
+      "Pretratamiento (flotación por aire disuelto, filtros multimedia)",
+      "Suministro de agua industrial a la mina Spence"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización bajo contrato BOOT con operación de 20 años",
+    "fuentes": [
+      "https://www.tedagua.com/en/news/news/tedagua-will-build-a-seawater-desalination-plant-and-water-supply-for-the-spence-mine-in-chile",
+      "https://pya.cl/planta-desaladora-agua-de-mar-proyecto-spence-growth-option-sgo-de-bhp/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Spence Growth Option (SGO) — desaladora + conducción",
+      "cliente": "Minera Spence S.A. (BHP)",
+      "ubicacion": "Mejillones, Antofagasta",
+      "monto": "US$ 2.460 millones (inversión total SGO)",
+      "fuente": "https://www.bhp.com/news/media-centre/releases/2017/08/bhp-approves-investment-to-extend-life-of-spence-copper-mine"
+    },
+    {
+      "proyecto": "Concesión BOOT + O&M 20 años (CAITAN: Tedagua + Mitsui)",
+      "cliente": "Minera Spence S.A. (BHP)",
+      "ubicacion": "Mejillones, Antofagasta",
+      "monto": "",
+      "fuente": "https://www.tedagua.com/en/project/desalination-plant-for-the-spence-mine"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Cristián Sandoval",
+      "cargo": "Presidente de BHP Pampa Norte (operación Spence)",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristian%20Sandoval%20BHP%20Pampa%20Norte",
+      "fuente": "https://www.bhp.com/news/articles/2022/05/bhp-inaugurates-a-new-copper-concentrator-in-spence"
+    },
+    {
+      "nombre": "Gonzalo Irribarra",
+      "cargo": "Gerente de Proyecto SGO (BHP)",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gonzalo%20Irribarra%20BHP",
+      "fuente": "https://www.scribd.com/document/412155378/Proyecto-SGO-Minera-Spence"
+    },
+    {
+      "nombre": "Andrew Mackenzie",
+      "cargo": "CEO de BHP (aprobación de la inversión SGO, 2017)",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andrew%20Mackenzie%20BHP",
+      "fuente": "https://www.bhp.com/news/media-centre/releases/2017/08/bhp-approves-investment-to-extend-life-of-spence-copper-mine"
+    },
+    {
+      "nombre": "Tedagua / CAITAN SpA (Tedagua + Mitsui)",
+      "cargo": "EPC + operador O&M (BOOT)",
+      "tipo": "EPC / Operador",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "",
+      "fuente": "https://www.tedagua.com/en/news/news/tedagua-will-build-a-seawater-desalination-plant-and-water-supply-for-the-spence-mine-in-chile"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Mejillones, Región de Antofagasta, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.bhp.com",
+    "fuente": "https://www.tedagua.com/en/project/desalination-plant-for-the-spence-mine"
+  }
+}

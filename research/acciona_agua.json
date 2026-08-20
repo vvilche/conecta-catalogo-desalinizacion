@@ -1,0 +1,96 @@
+{
+  "empresa": "Acciona Agua (Chile)",
+  "slug": "acciona_agua",
+  "rubro": "EPC + O&M de plantas desalinizadoras (grupo Acciona)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Acciona Agua es la división de agua del grupo español Acciona, especializada en diseño, construcción (EPC) y operación/mantenimiento (O&M) de plantas de tratamiento y desalinización. En Chile es un actor relevante en desalación minera (Collahuasi) y sanitaria (Copiapó, Caldera).",
+    "fundada": "Grupo Acciona (1997); Acciona Agua opera como S.A.U. con agencia en Chile",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Acciona S.A. (España)",
+    "rut": "96.061.500-5 (ACCIONA Agua S.A.U., Agencia en Chile)",
+    "sede": "Santiago, Chile",
+    "fuentes": [
+      "https://www.acciona.com/es/proyectos/idam-copiapo",
+      "https://www.acciona.cl/proyectos/idam-collahuasi",
+      "https://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php?s567=fc03ed227c8bce7bc75eebd3aaff7564VFdwQmVVNUVRWHBOUkVVeFQwUkZlazlCUFQwPQ%3D%3D&secuencia=-1&t=1712520060"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Diseño y construcción (EPC) de plantas desalinizadoras por ósmosis inversa",
+      "Operación y mantenimiento (O&M) de plantas desaladoras",
+      "Obras marinas, pretratamiento, ósmosis inversa y postratamiento",
+      "Suministro eléctrico con energía renovable para plantas desaladoras"
+    ],
+    "rol_cadena": "EPC/constructora de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.acciona.com/es/proyectos/idam-copiapo",
+      "https://www.acciona.cl/proyectos/idam-collahuasi"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "IDAM Collahuasi (desaladora, ~1.050 l/s)",
+      "cliente": "Compañía Minera Doña Inés de Collahuasi",
+      "ubicacion": "Puerto Patache, Región de Tarapacá",
+      "monto": "",
+      "fuente": "https://www.acciona.cl/proyectos/idam-collahuasi"
+    },
+    {
+      "proyecto": "IDAM Copiapó (Punta Totoralillo, ósmosis inversa)",
+      "cliente": "Región de Atacama (agua potable)",
+      "ubicacion": "Punta Totoralillo, Región de Atacama",
+      "monto": "",
+      "fuente": "https://www.acciona.com/es/proyectos/idam-copiapo"
+    },
+    {
+      "proyecto": "Suministro eléctrico 100% renovable, desaladora ECONSSA Caldera",
+      "cliente": "ECONSSA Chile S.A.",
+      "ubicacion": "Caldera, Región de Atacama",
+      "monto": "",
+      "fuente": "https://www.acciona.com/es/actualidad/noticias/acciona-adjudica-suministro-electrico-planta-desaladora-econssa-atacama-energia-renovable"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Waldo César López González",
+      "cargo": "Gerente de Desarrollo de Negocios Agua Chile / Director Adjunto del EPC desaladora Collahuasi",
+      "tipo": "Comercial / Desarrollo",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/waldo-c%C3%A9sar-l%C3%B3pez-gonz%C3%A1lez-852b7732",
+      "fuente": "https://cl.linkedin.com/in/waldo-c%C3%A9sar-l%C3%B3pez-gonz%C3%A1lez-852b7732"
+    },
+    {
+      "nombre": "Jorge Reyes",
+      "cargo": "Jefe de Operaciones O&M, Planta Desaladora de Collahuasi (CMDIC)",
+      "tipo": "Operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/jorge-reyes-85530b7b",
+      "fuente": "https://cl.linkedin.com/in/jorge-reyes-85530b7b"
+    },
+    {
+      "nombre": "Gonzalo Soto Aillón",
+      "cargo": "Jefe del Departamento de Desalación (Nueva Atacama S.A., operada por Acciona)",
+      "tipo": "Ingeniería / Operaciones",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/gonzalo-soto-aill%C3%B3n-2a9b6337",
+      "fuente": "https://cl.linkedin.com/in/gonzalo-soto-aill%C3%B3n-2a9b6337"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.acciona.cl",
+    "fuente": "https://www.acciona.cl"
+  }
+}

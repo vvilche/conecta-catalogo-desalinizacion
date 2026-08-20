@@ -1,0 +1,105 @@
+{
+  "empresa": "Desaladora Centinela (Distrito Minero Centinela) — Antofagasta Minerals",
+  "slug": "centinela",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Proyecto de desaladora asociado al desarrollo de Minera Centinela, de Antofagasta Minerals: proyecto 'Distrito Minero Centinela Etapas I y II – Desaladora'. Capacidad estimada ~140 L/s, con evaluación ambiental aprobada y pendiente de licitación/construcción. MANDANTE: Minera Centinela. EPC/CONSTRUCTORA e INGENIERÍA/DISEÑO: no divulgados públicamente. Contexto: el proyecto minero Nueva Centinela (inversión ~US$ 4.400 millones, construcción desde abril de 2024, operación prevista 2027) operará con agua de mar sin desalar mediante el SIAM externalizado a Aguas Esperanza (Transelec + Almar Water Solutions); la desaladora de Distrito Minero Centinela I y II corresponde a etapas posteriores aún no iniciadas.",
+    "fundada": "proyecto (desaladora sin inicio de obras; Nueva Centinela operación 2027)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Antofagasta Minerals / Antofagasta plc",
+    "rut": "",
+    "sede": "Distrito Centinela / Sierra Gorda, Región de Antofagasta, Chile",
+    "fuentes": [
+      "https://web.mineracentinela.cl/nosotros/que-hacemos/nueva-centinela",
+      "https://es.wikipedia.org/wiki/Catastro_nacional_de_plantas_y_proyectos_de_desalinizaci%C3%B3n_de_agua_de_mar_en_Chile",
+      "https://repositoriobibliotecas.uv.cl/serveruv/api/core/bitstreams/dc62868b-ab1c-43e3-a6df-2c1ad832b9a1/content"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Desalinización de agua de mar (proyecto, ~140 L/s)",
+      "Abastecimiento de agua industrial al Distrito Minero Centinela",
+      "Externalización del sistema de agua de mar (SIAM) vía Aguas Esperanza"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización proyectado para etapas de expansión del Distrito Minero Centinela",
+    "fuentes": [
+      "https://web.mineracentinela.cl/nosotros/que-hacemos/nueva-centinela",
+      "https://web.mineracentinela.cl/home/2024/06/18/se-formaliza-externalizacion-sistema-de-transporte-y-abastecimiento-de-agua-de-mar-de-minera-centinela"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Distrito Minero Centinela Etapas I y II – Desaladora (~140 L/s)",
+      "cliente": "Minera Centinela (Antofagasta Minerals)",
+      "ubicacion": "Distrito Centinela, Antofagasta",
+      "monto": "",
+      "fuente": "https://repositoriobibliotecas.uv.cl/serveruv/api/core/bitstreams/dc62868b-ab1c-43e3-a6df-2c1ad832b9a1/content"
+    },
+    {
+      "proyecto": "Nueva Centinela / Desarrollo Minera Centinela (DMC)",
+      "cliente": "Minera Centinela (Antofagasta Minerals)",
+      "ubicacion": "Distrito Centinela, Antofagasta",
+      "monto": "US$ 4.400 millones (inversión estimada)",
+      "fuente": "https://web.mineracentinela.cl/nosotros/que-hacemos/nueva-centinela"
+    },
+    {
+      "proyecto": "Externalización del SIAM (sistema de agua de mar) a Aguas Esperanza",
+      "cliente": "Minera Centinela (Antofagasta Minerals)",
+      "ubicacion": "Distrito Centinela, Antofagasta",
+      "monto": "",
+      "fuente": "https://web.mineracentinela.cl/home/2024/06/18/se-formaliza-externalizacion-sistema-de-transporte-y-abastecimiento-de-agua-de-mar-de-minera-centinela"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Iván Arriagada",
+      "cargo": "Presidente Ejecutivo, Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ivan%20Arriagada%20Antofagasta%20Minerals",
+      "fuente": "https://web.mineracentinela.cl/home/2024/06/18/se-formaliza-externalizacion-sistema-de-transporte-y-abastecimiento-de-agua-de-mar-de-minera-centinela"
+    },
+    {
+      "nombre": "Jorge Bermúdez",
+      "cargo": "Vicepresidente de Proyectos, Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jorge%20Bermudez%20Antofagasta%20Minerals",
+      "fuente": "https://intranet.aminerals.cl/Noticias/Detalle/2378"
+    },
+    {
+      "nombre": "Nicolás Rivera",
+      "cargo": "Gerente General, Minera Centinela",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nicolas%20Rivera%20Minera%20Centinela",
+      "fuente": "https://www.nuevamineria.com/revista/nicolas-rivera-gerente-general-de-minera-centinela-estamos-en-una-etapa-de-transformacion/"
+    },
+    {
+      "nombre": "Patricia Downing",
+      "cargo": "Vicepresidenta del Proyecto Nueva Centinela (DMC)",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patricia%20Downing%20Antofagasta%20Minerals",
+      "fuente": "https://intranet.aminerals.cl/Noticias/Detalle/2348"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Distrito Centinela / Sierra Gorda, Región de Antofagasta, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://web.mineracentinela.cl",
+    "fuente": "https://web.mineracentinela.cl/nosotros/que-hacemos/nueva-centinela"
+  }
+}

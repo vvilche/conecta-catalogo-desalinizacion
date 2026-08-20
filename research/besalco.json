@@ -1,0 +1,112 @@
+{
+  "empresa": "Besalco (Besalco Montajes)",
+  "slug": "besalco",
+  "rubro": "Construcción y montajes industriales (Chile)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Besalco S.A., grupo chileno de construcción e ingeniería. Su filial Besalco Montajes (Besalco MD Montajes S.A.) ejecutó las obras civiles y el montaje estructural/electromecánico de la planta desaladora de Quebrada Blanca 2 (QB2).",
+    "fundada": "1944 (Besalco S.A.); 2004 (Besalco MD Montajes)",
+    "dotacion": "19.618 trabajadores (grupo Besalco)",
+    "facturacion": "Ventas 2025: CLP 1.097.141 millones",
+    "matriz_grupo": "Besalco S.A.",
+    "rut": "92.434.000-2 (Besalco S.A.); 99.564.360-K (Besalco MD Montajes S.A.)",
+    "sede": "Ebro 2705, Las Condes, Santiago, Chile",
+    "fuentes": [
+      "https://www.besalco.cl/nosotros/",
+      "https://www.besalco.cl/inversionistas/informacion-para-el-mercado/",
+      "https://es.marketscreener.com/noticias/besalco-s-a-informa-resultados-financieros-para-el-ejercicio-finalizado-el-31-de-diciembre-de-2025-ce7e5bddda88f025"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Montajes industriales, obras civiles y electromecánicas (minería e industria)",
+      "Construcción de plantas desaladoras y estaciones de impulsión",
+      "Montaje estructural y electromecánico de plantas de proceso",
+      "Ingeniería y construcción de proyectos de infraestructura"
+    ],
+    "rol_cadena": "Constructora/montajista de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.besalcomontajes.cl/proyectos/desal-plant-and-port-on-shore-works-proyecto-quebrada-blanca-2.html",
+      "https://www.besalcomontajes.cl/equipo.html"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Desal Plant & Port On-Shore Works, Quebrada Blanca 2 (QB2)",
+      "cliente": "Compañía Minera Teck Quebrada Blanca S.A.",
+      "ubicacion": "Punta Patache, Región de Tarapacá",
+      "monto": "11.400.000 horas-hombre (contrato 2019-2024)",
+      "fuente": "https://www.besalcomontajes.cl/proyectos/desal-plant-and-port-on-shore-works-proyecto-quebrada-blanca-2.html"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Guillermo García Cano",
+      "cargo": "Gerente General (CEO), Besalco S.A.",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/guillermo-garcia-a2bb96aa",
+      "fuente": "https://cl.linkedin.com/in/guillermo-garcia-a2bb96aa"
+    },
+    {
+      "nombre": "Enrique Manuel García López",
+      "cargo": "Gerente General, Besalco Montajes S.A.",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enrique%20Garcia%20Lopez%20Besalco%20Montajes",
+      "fuente": "https://www.besalcomontajes.cl/equipo.html"
+    },
+    {
+      "nombre": "Rodrigo Araya Bannout",
+      "cargo": "Gerente de Operaciones, Besalco Montajes",
+      "tipo": "Operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rodrigo%20Araya%20Bannout%20Besalco",
+      "fuente": "https://www.besalcomontajes.cl/equipo.html"
+    },
+    {
+      "nombre": "Alejandro Rivera González",
+      "cargo": "Gerente de Abastecimiento y Logística, Besalco Montajes",
+      "tipo": "Abastecimiento",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alejandro%20Rivera%20Gonzalez%20Besalco%20Montajes",
+      "fuente": "https://www.besalcomontajes.cl/equipo.html"
+    },
+    {
+      "nombre": "Alejandro Hevia Norambuena",
+      "cargo": "Gerente Comercial, Besalco Montajes",
+      "tipo": "Comercial",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alejandro%20Hevia%20Norambuena%20Besalco",
+      "fuente": "https://www.besalcomontajes.cl/equipo.html"
+    },
+    {
+      "nombre": "Óscar Bustos Ramírez",
+      "cargo": "Gerente de Proyecto, Besalco Montajes",
+      "tipo": "Proyectos / Ingeniería",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Oscar%20Bustos%20Ramirez%20Besalco",
+      "fuente": "https://www.besalcomontajes.cl/equipo.html"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Ebro 2705, Las Condes, Santiago, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.besalco.cl",
+    "fuente": "https://www.besalco.cl/inversionistas/informacion-para-el-mercado/"
+  }
+}

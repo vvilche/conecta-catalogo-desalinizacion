@@ -1,0 +1,87 @@
+{
+  "empresa": "Plantas desaladoras menores del Norte — Angamos / Michilla / Antucoya",
+  "slug": "menores_norte",
+  "rubro": "Plantas desalinizadoras industriales/mineras (22–75 L/s) — Región de Antofagasta",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Tres plantas desaladoras menores del norte chileno. (1) ANGAMOS: mandante AES Gener (Eléctrica Angamos S.A.), Mejillones, 56 L/s, operando desde fines 2014/inicios 2015, ósmosis inversa con pretratamiento de ultrafiltración (doble paso), EPC/operación Abengoa. (2) MICHILLA: mandante Minera Michilla S.A. / Antofagasta Minerals (hoy Minera Centinela), Caleta Michilla (norte de Mejillones), 70 L/s, operando desde ~1991, ósmosis inversa con filtración previa (80 y 3 micrones); EPC no identificado públicamente. (3) ANTUCOYA: mandante Minera Antucoya Ltda. (Antofagasta Minerals), Región de Antofagasta (captación en Caleta Michilla), capacidad de desalación ~280 L/s (uso operativo ~20-30 L/s; ~2.930 m³/día), ósmosis inversa, operando desde 2012; EPCM del proyecto Antucoya: SNC-Lavalin (ingeniería detallada, procura y gestión de construcción, 2012).",
+    "fundada": "Michilla ~1991 · Antucoya 2012 · Angamos 2014/2015",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "AES Gener (Angamos) · Antofagasta Minerals / Minera Centinela (Michilla, Antucoya)",
+    "rut": "",
+    "sede": "Mejillones y comuna de María Elena, Región de Antofagasta, Chile",
+    "fuentes": [
+      "https://www.revistaei.cl/abengoa-desarrollara-planta-de-desalacion-para-central-angamos-de-aes-gener/",
+      "https://es.wikipedia.org/wiki/Desaladora_Michilla",
+      "https://www.environmental-expert.com/products/model-antucoya-mining-desalination-plant-817960",
+      "https://www.prnewswire.com/news-releases/snc-lavalin-awarded-epcm-contract-for-antucoya-project-in-chile-510671711.html"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar",
+      "Ósmosis inversa (Angamos con ultrafiltración y doble paso; Michilla con filtración previa)",
+      "Agua de proceso / desmineralizada para minería y centrales",
+      "Distribución a faena (Michilla abastece también Caleta Michilla)"
+    ],
+    "rol_cadena": "Proceso continuo (operación industrial/minera 24/7)",
+    "fuentes": [
+      "https://www.revistaei.cl/abengoa-desarrollara-planta-de-desalacion-para-central-angamos-de-aes-gener/",
+      "https://es.wikipedia.org/wiki/Desaladora_Michilla"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta desaladora Central Angamos (56 L/s) — EPC/operación Abengoa",
+      "cliente": "AES Gener / Eléctrica Angamos S.A.",
+      "ubicacion": "Mejillones, Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://www.revistaei.cl/abengoa-desarrollara-planta-de-desalacion-para-central-angamos-de-aes-gener/"
+    },
+    {
+      "proyecto": "Planta desaladora Michilla (70 L/s)",
+      "cliente": "Minera Michilla / Antofagasta Minerals",
+      "ubicacion": "Caleta Michilla, Mejillones",
+      "monto": "",
+      "fuente": "https://es.wikipedia.org/wiki/Desaladora_Michilla"
+    },
+    {
+      "proyecto": "Proyecto Antucoya — EPCM SNC-Lavalin (ingeniería detallada, procura, gestión de construcción)",
+      "cliente": "Minera Antucoya Ltda. (Antofagasta Minerals)",
+      "ubicacion": "Región de Antofagasta",
+      "monto": "",
+      "fuente": "https://www.prnewswire.com/news-releases/snc-lavalin-awarded-epcm-contract-for-antucoya-project-in-chile-510671711.html"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Ivo Fadic",
+      "cargo": "Gerente General de Minera Antucoya (Antofagasta Minerals)",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ivo%20Fadic%20Antucoya",
+      "fuente": "https://intranet.aminerals.cl/Noticias/Detalle/2223"
+    },
+    {
+      "nombre": "Juan C. Alarcón",
+      "cargo": "Gerente de Proyecto de Minera Antucoya",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20Alarcon%20Antucoya",
+      "fuente": "https://es.scribd.com/document/749210292/1003-01-IE-CI-012-2000-D-RET-00009-P-Taller-Constructibilidad"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Apoquindo 4001, Piso 18, Las Condes, Santiago (Minera Centinela / Antofagasta Minerals)",
+    "telefono": "(56-2) 2798 7000",
+    "correo": "",
+    "web": "https://web.mineracentinela.cl",
+    "fuente": "https://web.mineracentinela.cl/nosotros/que-hacemos"
+  }
+}

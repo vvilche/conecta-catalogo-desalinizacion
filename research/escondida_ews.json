@@ -1,0 +1,122 @@
+{
+  "empresa": "Escondida Water Supply (EWS) — Minera Escondida / BHP",
+  "slug": "escondida_ews",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora Escondida Water Supply (EWS) de Minera Escondida Ltda., operada por BHP, en Puerto Coloso (Antofagasta). Capacidad de diseño 2.500 L/s —tras la expansión EWSE, ~3.332 L/s—, inaugurada en abril de 2018; tecnología de ósmosis inversa (RO). MANDANTE: Minera Escondida Ltda. (BHP 57,5%, Rio Tinto 30%, JECO 10%, JECO 2 Ltd 2,5%). EPC/CONSTRUCTORA: Bechtel. INGENIERÍA/DISEÑO: Black & Veatch (engineer of record para diseño, procura, controles y comisionamiento). Incluye dos acueductos de acero de 42 pulgadas (~170-180 km), cuatro estaciones de bombeo de alta presión y reservorio de ~500.000 m³ en Cerro San Carlos.",
+    "fundada": "2018",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Minera Escondida Ltda. / BHP (BHP 57,5%, Rio Tinto 30%, JECO 10%, JECO 2 Ltd 2,5%)",
+    "rut": "",
+    "sede": "Puerto Coloso, Antofagasta, Región de Antofagasta, Chile",
+    "fuentes": [
+      "https://www.bhp.com/es/news/media-centre/releases/2013/07/bhp-billiton-approves-escondida-water-supply-project",
+      "https://www.bhp.com/es/news/media-centre/releases/2021/05/2500ls-plant-is-the-largest-in-latin-america",
+      "https://www.bechtel.com/projects/escondida-water-supply/",
+      "https://www.bechtel.com/press-releases/bechtel-to-design-and-build-complex-water-system-for-desert-copper-mine-in-chile/",
+      "https://www.bv.com/en-US/projects/black-and-veatch-clients-sustainability-project-will-increase-production-at"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar en Puerto Coloso",
+      "Ósmosis inversa (2.500 L/s, expandida a ~3.332 L/s)",
+      "Impulsión por dos acueductos de 42 pulgadas (~170-180 km) con 4 estaciones de bombeo de alta presión",
+      "Almacenamiento en reservorio de ~500.000 m³ en Cerro San Carlos",
+      "Post-tratamiento y entrega de agua industrial a proceso"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización que abastece la operación de Escondida (dejó de usar agua de pozos de Monturaqui en 2019)",
+    "fuentes": [
+      "https://www.bhp.com/es/news/media-centre/releases/2021/05/2500ls-plant-is-the-largest-in-latin-america",
+      "https://www.bechtel.com/projects/escondida-water-supply/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Escondida Water Supply (EWS) — construcción",
+      "cliente": "Minera Escondida Ltda. (BHP)",
+      "ubicacion": "Puerto Coloso, Antofagasta",
+      "monto": "US$ 3.430 millones",
+      "fuente": "https://www.bhp.com/es/news/media-centre/releases/2021/05/2500ls-plant-is-the-largest-in-latin-america"
+    },
+    {
+      "proyecto": "Expansión EWSE (Escondida Water Supply Expansion) a ~3.332 L/s",
+      "cliente": "Minera Escondida Ltda. (BHP)",
+      "ubicacion": "Puerto Coloso, Antofagasta",
+      "monto": "",
+      "fuente": "https://es.scribd.com/document/401412153/EWSE-SDP-BV-100000-CT-SOW-00103-pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "James Whittaker",
+      "cargo": "Presidente de Minera Escondida",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Whittaker%20Minera%20Escondida",
+      "fuente": "https://www.direcmin.com/minera-escondida/ejecutivos"
+    },
+    {
+      "nombre": "Arman Barha",
+      "cargo": "Vicepresidente de Proyectos, Minera Escondida",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Arman%20Barha%20Minera%20Escondida",
+      "fuente": "https://www.direcmin.com/minera-escondida/ejecutivos"
+    },
+    {
+      "nombre": "Rodrigo Caballero",
+      "cargo": "Vicepresidente de Operaciones Integradas, Minera Escondida",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rodrigo%20Caballero%20Minera%20Escondida",
+      "fuente": "https://www.direcmin.com/minera-escondida/ejecutivos"
+    },
+    {
+      "nombre": "Olga Alfaro Toledo",
+      "cargo": "Gerente General Operaciones Concentrado Escondida",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Olga%20Alfaro%20Toledo%20BHP",
+      "fuente": "https://www.dii.uchile.cl/2025/01/31/olga-alfaro-toledo-gerente-general-operaciones-concentrado-escondida-bhp-y-mbamin-uchile-el-programa-me-permitio-ver-la-mirada-integral-del-negocio-minero/"
+    },
+    {
+      "nombre": "Cristiana Moraes",
+      "cargo": "Vicepresidente de Finanzas, Minera Escondida",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristiana%20Moraes%20Minera%20Escondida",
+      "fuente": "https://www.direcmin.com/minera-escondida/ejecutivos"
+    },
+    {
+      "nombre": "Juan Cristóbal Marshall",
+      "cargo": "Vicepresidente de Asuntos Corporativos, Minera Escondida",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20Cristobal%20Marshall%20Minera%20Escondida",
+      "fuente": "https://www.direcmin.com/minera-escondida/ejecutivos"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Puerto Coloso, Antofagasta, Región de Antofagasta, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.bhp.com",
+    "fuente": "https://www.bechtel.com/projects/escondida-water-supply/"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "empresa": "Desaladora Aconcagua — Aguas Pacífico SpA (Quintero)",
+  "slug": "aguas_pacifico_aconcagua",
+  "rubro": "Planta desalinizadora multipropósito — Región de Valparaíso",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora de agua de mar (SWRO) multipropósito (industrial, minero y potable). Mandante/titular: Aguas Pacífico SpA (RUT 76.580.736-0), empresa del Fondo de Inversiones Patria; representante legal Enrique Alberto Cruzat Torres. Ubicación: comunas de Puchuncaví/Quintero/Quillota, Región de Valparaíso (planta en Puchuncaví, Bahía de Quintero). Capacidad: 1.000 L/s (~86.400 m³/día), con ampliación ambientalmente aprobada a 2.000 L/s (RCA abril 2026, operación ~2030). EPC: IDE Technologies (Israel). O&M: Veolia (contrato inicial 4 años, extensión hasta 2040, incluye acueducto de 105 km). Ingeniería conceptual/básica: Sigdo Koppers. Ingeniería de detalle: Pares & Álvarez (civil, eléctrica, instrumentación, mecánica, piping). Constructoras locales: Montec y Más Errázuriz. Estado: en construcción, avance >86% (oct 2025), operación proyectada primer semestre 2026. RCA Nº 37/2018 (13 ago 2018); inversión original US$162 M.",
+    "fundada": "2026 (operación proyectada, 1er semestre)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Aguas Pacífico SpA — Fondo de Inversiones Patria (mandante)",
+    "rut": "76.580.736-0",
+    "sede": "Puchuncaví / Quintero, Región de Valparaíso, Chile",
+    "fuentes": [
+      "https://www.aguaspacifico.cl/nosotros",
+      "https://ide-tech.com/es/project/desalinizadora-del-aconcagua-chile/",
+      "https://www.inteligenciacomercial.cl/intranet/fvproyecto.php?sc=2",
+      "https://pya.cl/proyectos/desalinizadora-multiproposito-aguas-pacifico/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar (torres e inmisario submarino)",
+      "Ósmosis inversa de agua de mar (SWRO)",
+      "Impulsión y acueducto de 105 km hacia clientes",
+      "Tratamiento, descarga de salmuera por emisario submarino"
+    ],
+    "rol_cadena": "Proceso continuo (multipropósito: industrial, minero, potable)",
+    "fuentes": [
+      "https://www.aguaspacifico.cl/s/Resumen_RCA_Proyecto_Aconcagua-Planta-DesalinizadoraEsp.pdf",
+      "https://ide-tech.com/es/project/desalinizadora-del-aconcagua-chile/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Proyecto Aconcagua — Planta desalinizadora 1.000 L/s (EPC IDE Technologies, O&M Veolia)",
+      "cliente": "Aguas Pacífico SpA (Patria)",
+      "ubicacion": "Puchuncaví/Quintero, Región de Valparaíso",
+      "monto": "US$ 162 millones",
+      "fuente": "https://www.inteligenciacomercial.cl/intranet/fvproyecto.php?sc=2"
+    },
+    {
+      "proyecto": "Ampliación a 2.000 L/s (segundo módulo, RCA aprobada abril 2026)",
+      "cliente": "Aguas Pacífico SpA",
+      "ubicacion": "Región de Valparaíso",
+      "monto": "US$ 280 millones (aprox.)",
+      "fuente": "https://www.aguaspacifico.cl/noticias/aguas-pacfico-obtiene-permiso-ambiental-rcapara-proyecto-que-aumenta-la-produccinde-agua-desalinizada-a-2000-ls"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Javier Moreno Hueyo",
+      "cargo": "Gerente General de Aguas Pacífico SpA",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Javier%20Moreno%20Hueyo%20Aguas%20Pacifico",
+      "fuente": "https://www.aguaspacifico.cl/nosotros"
+    },
+    {
+      "nombre": "Sergio Rosales",
+      "cargo": "Director de Ingeniería y Desarrollo de Aguas Pacífico",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sergio%20Rosales%20Aguas%20Pacifico",
+      "fuente": "https://www.aguaspacifico.cl/nosotros"
+    },
+    {
+      "nombre": "Guillermo Hernández",
+      "cargo": "Director de Proyectos de Aguas Pacífico",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Guillermo%20Hernandez%20Aguas%20Pacifico",
+      "fuente": "https://www.aguaspacifico.cl/nosotros"
+    },
+    {
+      "nombre": "José Mestres",
+      "cargo": "Presidente del Directorio de Aguas Pacífico SpA",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jose%20Mestres%20Aguas%20Pacifico",
+      "fuente": "https://www.aguaspacifico.cl/nosotros"
+    },
+    {
+      "nombre": "Pierino Venturini",
+      "cargo": "Gerente de Proyectos de Aguas Pacífico (Proyecto Aconcagua)",
+      "tipo": "Mandante",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pierino%20Venturini%20Aguas%20Pacifico",
+      "fuente": "https://www.inteligenciacomercial.cl/intranet/fvproyecto.php?sc=2"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Región de Valparaíso (planta en Puchuncaví), Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.aguaspacifico.cl",
+    "fuente": "https://www.aguaspacifico.cl/nosotros"
+  }
+}

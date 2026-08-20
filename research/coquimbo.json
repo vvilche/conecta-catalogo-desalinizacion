@@ -1,0 +1,92 @@
+{
+  "empresa": "Desaladora de Coquimbo — Aguas del Valle / MOP (concesión Sacyr Agua)",
+  "slug": "coquimbo",
+  "rubro": "Planta desalinizadora urbana (agua potable) — Región de Coquimbo",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora de agua de mar para agua potable. Mandante: Ministerio de Obras Públicas (MOP) vía Dirección General de Concesiones (DGC), con Aguas del Valle S.A. como titular inicial de los estudios ambientales. Concesionario EPC + operación (diseño, financiación, construcción y operación): Sacyr Agua (adjudicado abril 2026). Ubicación: sector El Panul, comuna de Coquimbo, Región de Coquimbo (captación por torre submarina en El Panul; planta ~1,6 km al este; conexión a red en La Herradura). Capacidad: 1.200 L/s total, con arranque inicial de 800 L/s. Estado: proyecto concesionado, EIA admitido a trámite con observaciones; operación estimada 2029. Tecnología: ósmosis inversa con pretratamiento por ultrafiltración (UF) y remineralización. Ingeniería conceptual previa: Iteck (estudios conceptuales y marítimos).",
+    "fundada": "2029 (operación estimada)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "MOP / Dirección General de Concesiones + Aguas del Valle S.A. (titular) · Sacyr Agua (concesionario EPC+O&M)",
+    "rut": "",
+    "sede": "Sector El Panul, Coquimbo, Región de Coquimbo, Chile",
+    "fuentes": [
+      "https://coquimbo.mop.gob.cl/mop-adjudica-construccion-de-planta-desaladora-en-coquimbo-a-sacyr/",
+      "https://concesiones.mop.gob.cl/direccion-general-de-concesiones-y-aguas-del-valle-firman-contrato-que-permitira-avanzar-en-desarrollo-de-proyecto-de-desaladora-para-coquimbo/",
+      "https://proyectanegocios.cl/ver-proyecto.php?id=3045"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar por torre submarina (El Panul)",
+      "Ósmosis inversa con pretratamiento de ultrafiltración (UF)",
+      "Remineralización y potabilización del agua desalada",
+      "Impulsión a estanques y red de distribución (La Herradura); emisario submarino de salmuera"
+    ],
+    "rol_cadena": "Proceso continuo (servicio sanitario, concesión)",
+    "fuentes": [
+      "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=2024%2F10%2F22%2Faf2f-4c6d-44f2-905a-e119889a898d",
+      "https://coquimbo.mop.gob.cl/mop-adjudica-construccion-de-planta-desaladora-en-coquimbo-a-sacyr/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Desaladora de Coquimbo — diseño, financiación, construcción y operación (concesión)",
+      "cliente": "MOP / DGC (con Aguas del Valle)",
+      "ubicacion": "El Panul, Coquimbo, Región de Coquimbo",
+      "monto": "",
+      "fuente": "https://coquimbo.mop.gob.cl/mop-adjudica-construccion-de-planta-desaladora-en-coquimbo-a-sacyr/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "José Luis Murillo Collado",
+      "cargo": "Gerente General de Aguas del Valle S.A.",
+      "tipo": "Titular sanitario",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jose%20Luis%20Murillo%20Aguas%20del%20Valle",
+      "fuente": "https://cmfchile.cl/institucional/inc/ejecutivos_pdf.php?comite_aux=&info=1&rut=99541380"
+    },
+    {
+      "nombre": "Andrés Antonio Nazer Vega",
+      "cargo": "Gerente Regional (Región de Coquimbo) de Aguas del Valle S.A.",
+      "tipo": "Titular sanitario",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andres%20Nazer%20Aguas%20del%20Valle",
+      "fuente": "https://cmfchile.cl/institucional/inc/ejecutivos_pdf.php?comite_aux=&info=1&rut=99541380"
+    },
+    {
+      "nombre": "Juan Manuel Sánchez Medioli",
+      "cargo": "Director General de Concesiones (MOP)",
+      "tipo": "Mandante público",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20Manuel%20Sanchez%20Medioli%20MOP",
+      "fuente": "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=2024%2F10%2F22%2Faf2f-4c6d-44f2-905a-e119889a898d"
+    },
+    {
+      "nombre": "Lucas de Marcos de la Torre",
+      "cargo": "Director de Sacyr Agua en Chile (concesionario adjudicatario)",
+      "tipo": "Concesionario EPC+O&M",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lucas%20de%20Marcos%20Sacyr%20Agua",
+      "fuente": "https://sacyr.com/en/-/formalizacion-adjudicacion-desladora-coquimbo-sacyr-agua"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Sector El Panul, Coquimbo, Región de Coquimbo, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.aguasdelvalle.cl",
+    "fuente": "https://coquimbo.mop.gob.cl/mop-adjudica-construccion-de-planta-desaladora-en-coquimbo-a-sacyr/"
+  }
+}

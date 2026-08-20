@@ -1,0 +1,99 @@
+{
+  "empresa": "Desaladora Norte Antofagasta (Ampliación) — Aguas de Antofagasta (Grupo EPM)",
+  "slug": "antofagasta_epm",
+  "rubro": "Planta desalinizadora urbana (agua potable) — Región de Antofagasta",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Ampliación de la Planta Desaladora Norte de Antofagasta por ósmosis inversa. Mandante: Aguas de Antofagasta S.A. (Grupo EPM), RUT 76.418.976-0, representante legal Mario Lenin Arturo Corvalán Neira. Ubicación: sector La Chimba Bajo Costa, comuna de Antofagasta. Capacidad: 634 L/s en 3 fases (Fase I 380 L/s — operando desde marzo 2025 —; Fase II 127 L/s; Fase III 127 L/s); con ello se cubre el 100% de la demanda de agua potable de Antofagasta con desalación. Modelo de gestión propio (sin EPC llave en mano único); contrato específico 'Antofagasta 300, Fase 2 Planta Desaladora Norte, C-3911' con Constructora Belfi S.A. (11 oct 2022, terminado anticipadamente 3 jul 2024). Ingeniería: EcoAgua (procesos de desalación, ing. básica y de construcción), Duarte y Fleming (obras civiles marítimas), VanDoorn (ingeniería electromecánica), Idom (arquitectura). DIA aprobada por Res. Ex. Nº 2001120-2021 del SEA.",
+    "fundada": "2025 (Fase I en operación)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Aguas de Antofagasta S.A. — Grupo EPM (mandante)",
+    "rut": "76.418.976-0",
+    "sede": "La Chimba Bajo Costa, Antofagasta, Región de Antofagasta, Chile",
+    "fuentes": [
+      "https://proyectanegocios.cl/ver-proyecto.php?id=2581",
+      "https://www.aidis.cl/wp-content/uploads/2025/11/03.-Cristian-Jimenez-Aguas-Antofagasta-S.A.pdf",
+      "https://vlex.cl/vid/resolucion-exenta-n-2001120-916273681"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar",
+      "Ósmosis inversa de agua de mar para agua potable",
+      "Impulsión e integración a la red de distribución de Antofagasta",
+      "Tratamiento/potabilización"
+    ],
+    "rol_cadena": "Proceso continuo (servicio sanitario 24/7)",
+    "fuentes": [
+      "https://proyectanegocios.cl/ver-proyecto.php?id=2581",
+      "https://www.aidis.cl/wp-content/uploads/2025/11/03.-Cristian-Jimenez-Aguas-Antofagasta-S.A.pdf"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Ampliación Planta Desaladora Norte — 634 L/s en 3 fases",
+      "cliente": "Aguas de Antofagasta S.A. (Grupo EPM)",
+      "ubicacion": "La Chimba Bajo Costa, Antofagasta",
+      "monto": "",
+      "fuente": "https://www.aidis.cl/wp-content/uploads/2025/11/03.-Cristian-Jimenez-Aguas-Antofagasta-S.A.pdf"
+    },
+    {
+      "proyecto": "Contrato 'Antofagasta 300, Fase 2 Planta Desaladora Norte, C-3911' — Constructora Belfi S.A. (terminado anticipadamente jul 2024)",
+      "cliente": "Aguas de Antofagasta S.A.",
+      "ubicacion": "Antofagasta",
+      "monto": "",
+      "fuente": "https://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php?s567=cd149c0726ddd08614a451c1ac80e7edVFdwQmVVNUVRVE5OUkUweFRWUmpOVTlSUFQwPQ%3D%3D&secuencia=-1&t=1720125001"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Fredy Zuleta Dávila",
+      "cargo": "Gerente General de Aguas de Antofagasta S.A.",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fredy%20Zuleta%20Aguas%20Antofagasta",
+      "fuente": "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&grupo=&mercado=V&pestania=47&row=AAAUvUABfAAAAkQAAM&rut=99540870&tipoentidad=RVEMI&vig=NV"
+    },
+    {
+      "nombre": "David Godoy Andrade",
+      "cargo": "Gerente de Proyectos e Ingeniería de Aguas de Antofagasta",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=David%20Godoy%20Aguas%20Antofagasta",
+      "fuente": "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&grupo=0&mercado=V&pestania=47&row=AAAwy2ACTAAABz+AAe&rut=76418976&tipoentidad=RGEIN&vig=VI"
+    },
+    {
+      "nombre": "Cristian Jiménez Paredes",
+      "cargo": "Gerente de Operaciones de Aguas de Antofagasta",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristian%20Jimenez%20Aguas%20Antofagasta",
+      "fuente": "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&grupo=0&mercado=V&pestania=47&row=AAAwy2ACTAAABz+AAe&rut=76418976&tipoentidad=RGEIN&vig=VI"
+    },
+    {
+      "nombre": "Mario Lenin Corvalán Neira",
+      "cargo": "Gerente de Estrategia Corporativa / Representante Legal de Aguas de Antofagasta",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mario%20Corvalan%20Aguas%20Antofagasta",
+      "fuente": "https://vlex.cl/vid/resolucion-exenta-n-2001120-916273681"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Antofagasta, Región de Antofagasta, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.aguasantofagasta.cl",
+    "fuente": "https://www.cmfchile.cl/institucional/mercados/entidad.php?control=svs&grupo=&mercado=V&pestania=47&row=AAAUvUABfAAAAkQAAM&rut=99540870&tipoentidad=RVEMI&vig=NV"
+  }
+}

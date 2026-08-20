@@ -1,0 +1,110 @@
+{
+  "empresa": "Nueva Atacama — Planta Desaladora de Agua de Mar de Atacama (Caldera)",
+  "slug": "nueva_atacama",
+  "rubro": "Planta desalinizadora urbana (agua potable) — Región de Atacama",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora de agua de mar (SWRO) para consumo humano. Mandante/titular: ECONSSA Chile S.A. (Empresa Concesionaria de Servicios Sanitarios, estatal). Operador en concesión: Nueva Atacama S.A. (Grupo Aguas Nuevas). Ubicación: Sector Punta Zorro, comuna de Caldera, Región de Atacama (captación frente a Punta Zorro, emisario frente a Bahía Inglesa). Capacidad: Etapa 1 de 450 L/s en operación; capacidad total proyectada 1.200 L/s (etapa 1: 450, etapa 2: +450 = 900, etapa 3: +300 = 1.200). EPC+O&M: consorcio INIMA-CVV Copiapó (GS Inima ~65% / CVV — Claro Vicuña Valenzuela ~35%). Ingeniería conceptual de obras marítimas y EIA: GSI Ingeniería. Revisión de ingeniería (contraparte): ECOAGUA. Estado: Etapa 1 operando desde 1 dic 2021; inversión total 3 etapas US$250 M; vida útil 40 años.",
+    "fundada": "2021 (puesta en marcha etapa 1)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "ECONSSA Chile S.A. (mandante) · Nueva Atacama S.A. — Grupo Aguas Nuevas (operador)",
+    "rut": "",
+    "sede": "Sector Punta Zorro, Caldera, Región de Atacama, Chile",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Planta_desaladora_de_agua_de_mar_para_la_Regi%C3%B3n_de_Atacama",
+      "https://goreatacama.gob.cl/2017/10/03/consorcio-inima-cvv-copiapo-se-adjudica-la-construccion-de-planta-desaladora-para-atacama/",
+      "https://www.nuevaatacama.cl/noticia_384-389_presidente-pinera-inauguro-planta-desaladora-de-caldera-140122075254",
+      "https://www.gsi.cl/not23.html"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar (emisario/captación costera frente a Punta Zorro)",
+      "Ósmosis inversa de agua de mar (SWRO) para consumo humano",
+      "Impulsión y conducción a Caldera, Chañaral, Copiapó y Tierra Amarilla",
+      "Tratamiento/potabilización y remineralización"
+    ],
+    "rol_cadena": "Proceso continuo (operación sanitaria 24/7)",
+    "fuentes": [
+      "https://goreatacama.gob.cl/2017/10/03/consorcio-inima-cvv-copiapo-se-adjudica-la-construccion-de-planta-desaladora-para-atacama/",
+      "https://www.nuevaatacama.cl/noticia_384-389_comision-de-agricultura-del-senado-visita-planta-desalinizadora-de-agua-de-mar-de-atacama-080722174350"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Construcción Planta Desaladora de Agua de Mar de Atacama — Etapas 1/2/3 (450 → 1.200 L/s)",
+      "cliente": "ECONSSA Chile S.A. (mandante)",
+      "ubicacion": "Punta Zorro, Caldera, Región de Atacama",
+      "monto": "US$ 250 millones (3 etapas)",
+      "fuente": "https://www.gsi.cl/not23.html"
+    },
+    {
+      "proyecto": "EPC + O&M consorcio INIMA-CVV (GS Inima + Claro Vicuña Valenzuela)",
+      "cliente": "ECONSSA Chile S.A.",
+      "ubicacion": "Caldera, Región de Atacama",
+      "monto": "",
+      "fuente": "https://goreatacama.gob.cl/2017/10/03/consorcio-inima-cvv-copiapo-se-adjudica-la-construccion-de-planta-desaladora-para-atacama/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Patricio Herrera",
+      "cargo": "Gerente General de ECONSSA Chile S.A.",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patricio%20Herrera%20Econssa",
+      "fuente": "https://goreatacama.gob.cl/2017/10/03/consorcio-inima-cvv-copiapo-se-adjudica-la-construccion-de-planta-desaladora-para-atacama/"
+    },
+    {
+      "nombre": "Fernando Velázquez",
+      "cargo": "Gerente de Desarrollo de ECONSSA Chile S.A.",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Fernando%20Velazquez%20Econssa",
+      "fuente": "https://www.nuevaatacama.cl/noticia_384-389_comision-de-agricultura-del-senado-visita-planta-desalinizadora-de-agua-de-mar-de-atacama-080722174350"
+    },
+    {
+      "nombre": "Sergio Fuentes",
+      "cargo": "Gerente Regional de Nueva Atacama (operador)",
+      "tipo": "Operador",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sergio%20Fuentes%20Nueva%20Atacama",
+      "fuente": "https://www.nuevaatacama.cl/noticia_384-389_presidente-pinera-inauguro-planta-desaladora-de-caldera-140122075254"
+    },
+    {
+      "nombre": "Sergio Muñoz",
+      "cargo": "Gerente de Operaciones de Nueva Atacama",
+      "tipo": "Operador",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sergio%20Munoz%20Nueva%20Atacama",
+      "fuente": "https://www.nuevaatacama.cl/noticia_384-389_comision-de-agricultura-del-senado-visita-planta-desalinizadora-de-agua-de-mar-de-atacama-080722174350"
+    },
+    {
+      "nombre": "Antonio Díaz",
+      "cargo": "Gerente de Infraestructura de Nueva Atacama",
+      "tipo": "Operador",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Antonio%20Diaz%20Nueva%20Atacama",
+      "fuente": "https://www.nuevaatacama.cl/noticia_384-389_comision-de-agricultura-del-senado-visita-planta-desalinizadora-de-agua-de-mar-de-atacama-080722174350"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Sector Punta Zorro, Caldera, Región de Atacama, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.nuevaatacama.cl",
+    "fuente": "https://www.nuevaatacama.cl"
+  }
+}

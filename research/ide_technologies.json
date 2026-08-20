@@ -1,0 +1,84 @@
+{
+  "empresa": "IDE Technologies (Israel)",
+  "slug": "ide_technologies",
+  "rubro": "EPC de desalinización por ósmosis inversa (Israel)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "IDE Technologies es una empresa israelí líder mundial en desalinización por ósmosis inversa, con oficina en Chile (IDE Chile). EPC de plantas como Aconcagua y proveedor de los módulos de ósmosis inversa en Quebrada Blanca 2 (QB2).",
+    "fundada": "1965 (Israel)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "IDE Technologies Ltd. (Israel)",
+    "rut": "no verificado",
+    "sede": "Av. Apoquindo 5400, Of. 2101, Las Condes, Santiago, Chile",
+    "fuentes": [
+      "https://ide-tech.com/es/contacto/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Diseño, ingeniería y construcción (EPC) de plantas desaladoras por ósmosis inversa",
+      "Ingeniería y construcción de plantas de agua desalinizada para minería y saneamiento",
+      "Módulos de ósmosis inversa (SWRO) y ultrafiltración para proyectos mineros",
+      "Operación y mantenimiento de plantas desaladoras"
+    ],
+    "rol_cadena": "EPC/ingeniería de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://ide-tech.com/es/contacto/",
+      "https://ide-tech.com/en/ide-water-technologies-welcomes-eduardo-silva-as-regional-manager-chile/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta desaladora Aconcagua (EPC)",
+      "cliente": "Aguas Pacífico SpA",
+      "ubicacion": "Quintero / Puchuncaví, Región de Valparaíso",
+      "monto": "",
+      "fuente": "https://www.linkedin.com/company/ide-technologies-ltd."
+    },
+    {
+      "proyecto": "SADDN — Sistema de Aguas Desalinizadas del Norte",
+      "cliente": "Minería del norte de Chile",
+      "ubicacion": "Norte de Chile",
+      "monto": "",
+      "fuente": "https://www.linkedin.com/posts/ide-technologies-ltd._waterprojects-mining-desalination-activity-7454122089998905344-y2Sp"
+    },
+    {
+      "proyecto": "Quebrada Blanca 2 (QB2) — módulos de ósmosis inversa",
+      "cliente": "Teck Quebrada Blanca",
+      "ubicacion": "Región de Tarapacá",
+      "monto": "",
+      "fuente": "https://cl.linkedin.com/in/rodrigo-estay-borquez-79825016"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Eduardo Silva",
+      "cargo": "Director General Regional de Operaciones / Regional Manager, IDE Chile",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eduardo%20Silva%20IDE%20Technologies%20Chile",
+      "fuente": "https://ide-tech.com/en/ide-water-technologies-welcomes-eduardo-silva-as-regional-manager-chile/"
+    },
+    {
+      "nombre": "Rodrigo Estay Borquez",
+      "cargo": "Head of Engineering & Construction, IDE Technologies Chile",
+      "tipo": "Ingeniería",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/rodrigo-estay-borquez-79825016",
+      "fuente": "https://cl.linkedin.com/in/rodrigo-estay-borquez-79825016"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Apoquindo 5400, Of. 2101, Las Condes, Santiago, Chile",
+    "telefono": "+56 225829450",
+    "correo": "chile@ide-tech.com",
+    "web": "https://ide-tech.com",
+    "fuente": "https://ide-tech.com/es/contacto/"
+  }
+}

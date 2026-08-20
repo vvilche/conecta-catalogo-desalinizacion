@@ -1,0 +1,120 @@
+{
+  "empresa": "Desaladora Minera Los Pelambres (Proyecto INCO)",
+  "slug": "los_pelambres",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora del Proyecto de Infraestructura Complementaria (INCO) de Minera Los Pelambres, de Antofagasta Minerals (filial de Antofagasta plc), ubicada en Puerto Punta Chungo, Los Vilos, Región de Coquimbo. Capacidad inicial 400 L/s, puesta en marcha en marzo de 2024; expansión PAO a 800 L/s aprobada ambientalmente. Tecnología de ósmosis inversa (RO). MANDANTE: Minera Los Pelambres. EPC/CONSTRUCTORA: Bechtel (desde 2019). INGENIERÍA/DISEÑO: Aquatech aparece como proveedor de módulos de ósmosis inversa y componentes; la responsabilidad principal de ingeniería/EPC recae en Bechtel. El agua desalada se bombea desde la costa hasta el tranque El Mauro y luego a la planta concentradora en Chacay.",
+    "fundada": "2024",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Antofagasta Minerals / Antofagasta plc",
+    "rut": "",
+    "sede": "Puerto Punta Chungo, Los Vilos, Región de Coquimbo, Chile",
+    "fuentes": [
+      "https://web.pelambres.cl/nosotros/quienes-somos/historia",
+      "https://www.bechtel.com/blog/desalination-plants-for-the-mining-industry-promoting-efficient-water-usage/",
+      "https://web.pelambres.cl/noticias-detalle/2024/03/21/los-pelambres-pone-en-marcha-primera-planta-desalinizadora-para-la-miner%C3%ADa-de-la-zona-central",
+      "https://conecta.pactoglobal.cl/casos-de-empresas/planta-desalinizadora-de-minera-los-pelambres-para-un-futuro-sostenible/"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar en Puerto Punta Chungo",
+      "Ósmosis inversa (400 L/s, expansión a 800 L/s)",
+      "Impulsión de agua desalada hasta tranque El Mauro y planta concentradora Chacay",
+      "Post-tratamiento de agua industrial"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización para reducir la dependencia de agua continental del río Choapa",
+    "fuentes": [
+      "https://web.pelambres.cl/noticias-detalle/2024/03/21/los-pelambres-pone-en-marcha-primera-planta-desalinizadora-para-la-miner%C3%ADa-de-la-zona-central",
+      "https://www.bechtel.com/blog/desalination-plants-for-the-mining-industry-promoting-efficient-water-usage/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Proyecto INCO — planta desalinizadora 400 L/s",
+      "cliente": "Minera Los Pelambres (Antofagasta Minerals)",
+      "ubicacion": "Puerto Punta Chungo, Los Vilos, Coquimbo",
+      "monto": "",
+      "fuente": "https://www.bechtel.com/projects/los-pelambres-copper-mine/"
+    },
+    {
+      "proyecto": "Proyecto de Adaptación Operacional (PAO) — duplicación a 800 L/s",
+      "cliente": "Minera Los Pelambres (Antofagasta Minerals)",
+      "ubicacion": "Los Vilos, Coquimbo",
+      "monto": "",
+      "fuente": "https://web.pelambres.cl/nosotros/quienes-somos/historia"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Jean-Paul Luksic",
+      "cargo": "Presidente del Directorio, Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jean-Paul%20Luksic%20Antofagasta%20Minerals",
+      "fuente": "https://consejominero.cl/nosotros/socios/antofagasta-minerals/"
+    },
+    {
+      "nombre": "Iván Arriagada",
+      "cargo": "Presidente Ejecutivo (CEO), Antofagasta plc / Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ivan%20Arriagada%20Antofagasta%20Minerals",
+      "fuente": "https://intranet.aminerals.cl/Noticias/Detalle/2223"
+    },
+    {
+      "nombre": "Alejandro Vásquez Montero",
+      "cargo": "Vicepresidente de Operaciones y Gerente General, Minera Los Pelambres",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alejandro%20Vasquez%20Minera%20Los%20Pelambres",
+      "fuente": "https://web.pelambres.cl/noticias-detalle/2024/03/21/los-pelambres-pone-en-marcha-primera-planta-desalinizadora-para-la-miner%C3%ADa-de-la-zona-central"
+    },
+    {
+      "nombre": "Jorge Bermúdez García",
+      "cargo": "Vicepresidente de Proyectos, Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jorge%20Bermudez%20Antofagasta%20Minerals",
+      "fuente": "https://www.aminerals.cl/nosotros/quienes-somos/ejecutivos"
+    },
+    {
+      "nombre": "Mauricio Ortiz",
+      "cargo": "Vicepresidente de Finanzas, Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mauricio%20Ortiz%20Antofagasta%20Minerals",
+      "fuente": "https://intranet.aminerals.cl/Noticias/Detalle/2223"
+    },
+    {
+      "nombre": "Alejandra Vial",
+      "cargo": "Vicepresidenta de Sustentabilidad, Antofagasta Minerals",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alejandra%20Vial%20Antofagasta%20Minerals",
+      "fuente": "https://intranet.aminerals.cl/Noticias/Detalle/2223"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Puerto Punta Chungo, Los Vilos, Región de Coquimbo, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://web.pelambres.cl",
+    "fuente": "https://web.pelambres.cl/nosotros/quienes-somos/historia"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "empresa": "Veolia Water Technologies Chile",
+  "slug": "veolia",
+  "rubro": "O&M y tecnologías de tratamiento de agua (Veolia)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "Veolia Water Solutions & Technologies Chile Limitada, filial chilena del grupo francés Veolia, provee tecnologías de tratamiento de agua y operación/mantenimiento (O&M) de plantas desaladoras. Adjudicó el O&M de la desaladora multipropósito Aguas Pacífico.",
+    "fundada": "2016 (cambio de razón social desde SUEZ Water Technologies & Solutions Chile Ltda.)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "Veolia (Francia)",
+    "rut": "77.894.510-K (Veolia Water Solutions & Technologies Chile Limitada)",
+    "sede": "Av. Apoquindo 5550, Piso 13, Of. 1301A, Santiago, Chile",
+    "fuentes": [
+      "https://dequienes.cl/diario-oficial/2023/02/11/suez-water-technologies-y-solutions-chile-limitada-78851880-3-2270513",
+      "https://www.latam.veoliawatertechnologies.com/es/contacto/encuentra-unidad-cercana/santiago-chile"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Operación y mantenimiento (O&M) de plantas desaladoras",
+      "Tecnologías de tratamiento y desalinización de agua (ósmosis inversa)",
+      "Ingeniería y soluciones de agua industrial y municipal",
+      "Gestión integral del ciclo del agua"
+    ],
+    "rol_cadena": "Operador/O&M de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://www.veolia.com/en/our-media/press-releases/veolia-will-manage-first-municipal-and-industrial-desalination-plant-chile"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "O&M Planta desaladora multipropósito Aguas Pacífico (1.000 l/s + acueducto 105 km)",
+      "cliente": "Aguas Pacífico SpA",
+      "ubicacion": "Puchuncaví, Región de Valparaíso (acueducto hasta Quilapilún, Colina, RM)",
+      "monto": "",
+      "fuente": "https://www.veolia.com/en/our-media/press-releases/veolia-will-manage-first-municipal-and-industrial-desalination-plant-chile"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Elier González",
+      "cargo": "CEO, Veolia Chile – Perú",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Elier%20Gonzalez%20Veolia%20Chile",
+      "fuente": "https://www.veolia.com/en/our-media/press-releases/veolia-will-manage-first-municipal-and-industrial-desalination-plant-chile"
+    },
+    {
+      "nombre": "Claudio Vilches G.",
+      "cargo": "Sales Director, Veolia Water Technologies (LatAm minería)",
+      "tipo": "Comercial",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/claudio-vilches-g-9800b626",
+      "fuente": "https://cl.linkedin.com/in/claudio-vilches-g-9800b626"
+    },
+    {
+      "nombre": "Alexei Moreno Casanova",
+      "cargo": "Administrador de Contrato, Veolia Chile",
+      "tipo": "Operaciones / Gestión contractual",
+      "rol_compra": "R",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://cl.linkedin.com/in/alexei-moreno-casanova-30a135aa",
+      "fuente": "https://cl.linkedin.com/in/alexei-moreno-casanova-30a135aa"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Av. Apoquindo 5550, Piso 13, Of. 1301A, Santiago, Chile",
+    "telefono": "+56 2 2336 1200",
+    "correo": "",
+    "web": "https://www.latam.veoliawatertechnologies.com",
+    "fuente": "https://www.latam.veoliawatertechnologies.com/es/contacto/encuentra-unidad-cercana/santiago-chile"
+  }
+}

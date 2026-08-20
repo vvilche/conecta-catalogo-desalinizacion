@@ -1,0 +1,91 @@
+{
+  "empresa": "GS Inima (GS E&C)",
+  "slug": "gs_inima",
+  "rubro": "EPC + O&M de desalinización (GS E&C, Corea del Sur)",
+  "clasificacion": "CANAL",
+  "justificacion_angulo": "EPC/constructora/ingenieria de desaladoras que subcontrata la especialidad electrica/control (SCADA, DCS, instrumentacion, protecciones IEC 61850) a integradores como CONECTA.",
+  "quien_es": {
+    "descripcion": "GS Inima Environment, filial de agua del grupo coreano GS E&C, especializada en desalinización y concesiones de agua. En Chile lidera (65%) el consorcio Inima-CVV que construyó (EPC) y operó (O&M) la Planta Desaladora de Atacama / Nueva Atacama.",
+    "fundada": "Grupo con más de 70 años en el sector del agua (GS Inima)",
+    "dotacion": "no verificado",
+    "facturacion": "no verificado",
+    "matriz_grupo": "GS E&C (Corea del Sur), 100% propietaria de GS Inima",
+    "rut": "no verificado (filial Chile)",
+    "sede": "Gobelas 41-45, 1º A, 28023 Madrid, España",
+    "fuentes": [
+      "https://inima.com/nuestra-organizacion/",
+      "https://www.linksecurities.com/wp-content/uploads/2025/04/presentacion_inima.pdf"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Diseño, suministro y construcción (EPC) de plantas desaladoras",
+      "Operación y mantenimiento (O&M) de plantas desaladoras",
+      "Concesiones de agua y desalación",
+      "Financiación de proyectos de infraestructura hídrica"
+    ],
+    "rol_cadena": "EPC/ingeniería de desaladoras que subcontrata la especialidad eléctrica/control (SCADA, DCS, instrumentación, protecciones IEC 61850) a integradores especializados.",
+    "fuentes": [
+      "https://inima.com/el-presidente-de-chile-inaugura-la-planta-desaladora-de-atacama-2/",
+      "https://inima.com/wp-content/uploads/2023/05/Leaflet-atacama_proyecto_ES.pdf"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta Desaladora de Atacama / Nueva Atacama (EPC + O&M, consorcio Inima-CVV 65/35)",
+      "cliente": "ECONSSA Chile S.A.",
+      "ubicacion": "Caldera / Copiapó, Región de Atacama",
+      "monto": "US$ 86,3 millones (1ª etapa); ~US$ 250 millones integral (3 etapas, 1.200 l/s)",
+      "fuente": "https://inima.com/el-presidente-de-chile-inaugura-la-planta-desaladora-de-atacama-2/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Marta Verde Blázquez",
+      "cargo": "Chief Executive Officer (CEO), GS Inima",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marta%20Verde%20GS%20Inima",
+      "fuente": "https://inima.com/nuestra-organizacion/"
+    },
+    {
+      "nombre": "Diego de Vera Molero",
+      "cargo": "Chief Business Development Officer (ex Country Manager Chile), GS Inima",
+      "tipo": "Comercial / Desarrollo",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://es.linkedin.com/in/diego-de-vera-molero",
+      "fuente": "https://inima.com/nuestra-organizacion/"
+    },
+    {
+      "nombre": "Ángel Achau",
+      "cargo": "Gerente General, consorcio GS Inima-CVV (adjudicación Nueva Atacama)",
+      "tipo": "Gerencia General",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Angel%20Achau%20GS%20Inima",
+      "fuente": "https://goreatacama.gob.cl/2018/01/23/gobierno-impulsa-contratacion-de-mano-de-obra-local-en-construccion-de-desaladora-atacama/"
+    },
+    {
+      "nombre": "Sergio Muñoz",
+      "cargo": "Gerente de Operaciones, Nueva Atacama S.A.",
+      "tipo": "Operaciones",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sergio%20Munoz%20Nueva%20Atacama",
+      "fuente": "https://tramitacion.senado.cl/appsenado/index.php?ac=otras_actividades&ano=2022&comi_nombre=de+Agricultura&desde=0&hasta=0&idcomision=192&legi=0&listado=1&mo=comisiones&tipo=2"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Gobelas 41-45, 1º A, 28023 Madrid, España",
+    "telefono": "",
+    "correo": "",
+    "web": "https://inima.com",
+    "fuente": "https://inima.com/nuestra-organizacion/"
+  }
+}

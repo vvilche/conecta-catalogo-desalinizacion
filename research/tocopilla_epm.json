@@ -1,0 +1,82 @@
+{
+  "empresa": "Desaladora de Tocopilla — Aguas de Antofagasta (Grupo EPM)",
+  "slug": "tocopilla_epm",
+  "rubro": "Planta desalinizadora urbana (agua potable) — Región de Antofagasta",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora de agua de mar por ósmosis inversa para agua potable. Mandante: Aguas de Antofagasta S.A., filial del Grupo EPM. Ubicación: sector Caleta Vieja, al norte de la ciudad de Tocopilla, Región de Antofagasta. Capacidad: 75 L/s. Estado: en operación desde 2020 (marcha blanca julio 2020); construcción iniciada ~2017, inversión US$46 M. Obras civiles: Grupo Flesan (movimientos de tierra, fundaciones, hormigón armado). Ingeniería básica y estudios: gestión interna de Aguas de Antofagasta (no se identificó un EPC llave en mano único externo).",
+    "fundada": "2020 (puesta en marcha)",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Aguas de Antofagasta S.A. — Grupo EPM (mandante)",
+    "rut": "",
+    "sede": "Caleta Vieja, Tocopilla, Región de Antofagasta, Chile",
+    "fuentes": [
+      "https://www.andess.cl/aguas-antofagasta-inicia-operaciones-en-planta-desaladora-de-tocopilla/",
+      "https://www.grupo-epm.com/content/dam/epm/institucional/documentos/documentos/sostenibilidad-acceso-y-comprabilidad.pdf",
+      "https://www.biobiochile.cl/noticias/economia/negocios-y-empresas/2020/07/31/nueva-planta-desaladora-tocopilla-entra-marcha-blanca.shtml"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación de agua de mar",
+      "Ósmosis inversa de agua de mar (agua potable)",
+      "Impulsión y distribución a la ciudad de Tocopilla",
+      "Tratamiento/potabilización"
+    ],
+    "rol_cadena": "Proceso continuo (servicio sanitario 24/7)",
+    "fuentes": [
+      "https://www.andess.cl/aguas-antofagasta-inicia-operaciones-en-planta-desaladora-de-tocopilla/",
+      "https://es.scribd.com/document/1027275219/IFA-Planta-Desaladora-Tocopilla"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Construcción Planta Desaladora de Tocopilla (obras civiles Grupo Flesan)",
+      "cliente": "Aguas de Antofagasta S.A. (Grupo EPM)",
+      "ubicacion": "Caleta Vieja, Tocopilla",
+      "monto": "US$ 46 millones",
+      "fuente": "https://www.andess.cl/aguas-antofagasta-inicia-operaciones-en-planta-desaladora-de-tocopilla/"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Carlos Mario Méndez Gallo",
+      "cargo": "Gerente General de Aguas de Antofagasta (Grupo EPM)",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Carlos%20Mario%20Mendez%20Aguas%20Antofagasta",
+      "fuente": "https://www.epm.com.co/inversionistas/noticias/aguas-antofagasta-inicio-operacion-de-planta-desaladora/"
+    },
+    {
+      "nombre": "Mario Corvalán Neira",
+      "cargo": "Representante Legal de Aguas de Antofagasta S.A.",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mario%20Corvalan%20Aguas%20Antofagasta",
+      "fuente": "https://es.scribd.com/document/1027275219/IFA-Planta-Desaladora-Tocopilla"
+    },
+    {
+      "nombre": "Álvaro Guillermo Rendón López",
+      "cargo": "Gerente General de EPM (Grupo EPM, Colombia) — al momento de la inauguración",
+      "tipo": "Matriz del grupo",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alvaro%20Rendon%20EPM",
+      "fuente": "https://www.epm.com.co/inversionistas/noticias/aguas-antofagasta-inicio-operacion-de-planta-desaladora/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Caleta Vieja, Tocopilla, Región de Antofagasta, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.aguasantofagasta.cl",
+    "fuente": "https://www.andess.cl/aguas-antofagasta-inicia-operaciones-en-planta-desaladora-de-tocopilla/"
+  }
+}

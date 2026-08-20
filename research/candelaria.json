@@ -1,0 +1,102 @@
+{
+  "empresa": "Desaladora Minera Candelaria — Lundin Mining",
+  "slug": "candelaria",
+  "rubro": "Desalinización de agua de mar — minería del cobre",
+  "clasificacion": "CLIENTE FINAL",
+  "justificacion_angulo": "Planta de osmosis inversa (proceso continuo) → DCS + instrumentacion + SCADA para control de presion, flujo, salinidad y bombas de alta presion (SUPCON ECS-700).",
+  "quien_es": {
+    "descripcion": "Planta desalinizadora de Compañía Contractual Minera Candelaria (CCMC; 80% Lundin Mining, 20% Sumitomo), en Punta Padrones, Caldera, Región de Atacama. Capacidad ~500 L/s (primera etapa 300 L/s expandible), en operación desde mayo de 2013. Tecnología: captación pasiva en torre a 27 m, flotación por aire disuelto (DAF), ultrafiltración/microfiltración, ósmosis inversa y remineralización; emisario submarino. MANDANTE: CCMC (Lundin Mining). EPC/CONSTRUCTORA: no verificado. INGENIERÍA/DISEÑO: ISASTUR Ingeniería realizó estudios eléctricos (cortocircuito, selectividad, arc-flash) para Aqualia en 2012 — no confirma diseño completo de la planta. Acueducto de ~78 km + ~30 km hasta la mina; línea de transmisión 110 kV. Inversión estimada ~US$ 330 millones.",
+    "fundada": "2013",
+    "dotacion": "",
+    "facturacion": "",
+    "matriz_grupo": "Lundin Mining Corporation (80%) / Sumitomo Corporation (20%)",
+    "rut": "",
+    "sede": "Punta Padrones, Caldera, Región de Atacama, Chile",
+    "fuentes": [
+      "https://www.guiaminera.cl/compania-contractual-minera-candelaria/",
+      "https://www.distritocandelaria.cl/planta-desalinizadora-de-minera-candelaria-pilar-de-una-mineria-sustentable/",
+      "https://www.isastur.com/es/ingenieria/activity/view/18"
+    ]
+  },
+  "que_hace": {
+    "servicios": [
+      "Captación pasiva de agua de mar (torre a 27 m de profundidad)",
+      "Pretratamiento (DAF, prefiltrado, ultrafiltración, microfiltración)",
+      "Ósmosis inversa (~500 L/s)",
+      "Remineralización y post-tratamiento del agua",
+      "Impulsión por acueducto (~78 km + 30 km) y descarga de salmuera por emisario submarino"
+    ],
+    "rol_cadena": "Proceso continuo de desalinización que cubre el 100% del agua de proceso de la faena",
+    "fuentes": [
+      "https://www.distritocandelaria.cl/planta-desalinizadora-de-minera-candelaria-pilar-de-una-mineria-sustentable/"
+    ]
+  },
+  "proyectos": [
+    {
+      "proyecto": "Planta desalinizadora Minera Candelaria (RCA Nº 129/2011)",
+      "cliente": "Compañía Contractual Minera Candelaria (CCMC)",
+      "ubicacion": "Punta Padrones, Caldera, Atacama",
+      "monto": "US$ 330 millones (estimado)",
+      "fuente": "https://es.scribd.com/document/459920185/presentacion-ejecutiva-desaladora-agosto-14-pdf"
+    }
+  ],
+  "tomadores": [
+    {
+      "nombre": "Leonardo González Alcayaga",
+      "cargo": "Presidente y Director Ejecutivo, Minera Candelaria",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Leonardo%20Gonzalez%20Alcayaga%20Candelaria",
+      "fuente": "https://www.distritocandelaria.cl/curriculums/leonardo-gonzalez-alcayaga/"
+    },
+    {
+      "nombre": "Jack Lundin",
+      "cargo": "Presidente y CEO, Lundin Mining Corporation",
+      "tipo": "Mandante",
+      "rol_compra": "D",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jack%20Lundin%20Lundin%20Mining",
+      "fuente": "https://es.lundinmining.com/about/leadership/"
+    },
+    {
+      "nombre": "Juan Andrés Morel",
+      "cargo": "Vicepresidente Ejecutivo y COO, Lundin Mining",
+      "tipo": "Mandante",
+      "rol_compra": "A",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20Andres%20Morel%20Lundin%20Mining",
+      "fuente": "https://www.lundinmining.com/about/leadership/"
+    },
+    {
+      "nombre": "Marcia Soto Villalobos",
+      "cargo": "Subgerente de Puerto y Planta Desalinizadora, Minera Candelaria (Caldera)",
+      "tipo": "Mandante",
+      "rol_compra": "CT",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marcia%20Soto%20Minera%20Candelaria",
+      "fuente": "https://procandelaria.cl/lundin-mining-de-minera-candelaria-nombra-la-primera/"
+    },
+    {
+      "nombre": "Richard Bennett",
+      "cargo": "Gerente de Medio Ambiente, Lundin Mining Candelaria",
+      "tipo": "Mandante",
+      "rol_compra": "I",
+      "correo": "",
+      "telefono": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Richard%20Bennett%20Lundin%20Mining%20Candelaria",
+      "fuente": "https://www.distritocandelaria.cl/gestion-hidrica-sustentable-el-compromiso-de-lundin-mining-candelaria-en-atacama/"
+    }
+  ],
+  "contacto_corporativo": {
+    "direccion": "Punta Padrones, Caldera, Región de Atacama, Chile",
+    "telefono": "",
+    "correo": "",
+    "web": "https://www.lundinmining.com",
+    "fuente": "https://www.distritocandelaria.cl/planta-desalinizadora-de-minera-candelaria-pilar-de-una-mineria-sustentable/"
+  }
+}
